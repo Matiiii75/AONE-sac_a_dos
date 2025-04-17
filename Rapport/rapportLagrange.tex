@@ -1,0 +1,100 @@
+\documentclass[french,nochapter,11pt]{rapportUB}  
+
+\college{Collège Sciences et Technologies}
+\uf{UF Mathématiques et Interactions}
+\program{Master MAS parcours ROAD} %A remplir
+\course{AONE} %A remplir
+\academicyear{2024 -- 2025} %A remplir
+\author{ %A remplir\\
+	Matilin Periat
+}
+
+%Paquetages additionnels
+\usepackage{placeins}
+\usepackage{multirow}
+\usepackage{framed}
+\usepackage{amsmath}
+\usepackage{algorithm2e}
+\usepackage{tcolorbox}
+\usepackage{stmaryrd}
+\newcommand{\rb}{\rrbracket}
+\newcommand{\lb}{\llbracket}
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{graphicx}
+\usepackage{mathrsfs} % Pour \mathscr{P}
+\usepackage{hyperref} % Pour des références cliquables
+
+\newtheorem{proposition}{Proposition}
+
+\usepackage[utf8]{inputenc}
+%\usepackage[hidelinks]{hyperref}
+%\usepackage[left=2cm,right=2cm,top=3cm,bottom=3cm]{geometry}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage[T1]{fontenc}
+\frenchbsetup{StandardLists=true}
+\usepackage{enumitem}
+\usepackage{array}
+\usepackage{diagbox}
+\usepackage{booktabs}
+\usepackage{changepage} % Pour ajuster localement les marges
+\usepackage{hyperref}
+\usepackage{caption}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{longtable}
+\usepackage{makecell}
+
+
+
+% Configuration de la couleur des liens hypertextes
+% Voir https://www.overleaf.com/learn/latex/Hyperlinks
+\hypersetup{
+	colorlinks,
+	linkcolor={red},
+	citecolor={blue},
+	urlcolor={blue}
+}
+
+%Pour gérer la bibliographie
+\usepackage[backend=biber,style=numeric,giveninits=false,maxcitenames=10,minnames=1,maxnames=10,uniquename=full]{biblatex}
+
+\addbibresource{Autre/biblio.bib}
+
+
+
+\DeclareDelimFormat{nameyeardelim}{\addspace}  % Supprime la virgule entre les noms et l'année
+\DeclareNameAlias{sortname}{given-family}      % Affiche "Prénom Nom" au lieu de "Nom, Prénom"
+
+%Déclaration d'un nouvel opérateur
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+
+% Redéfinir les mots-clés en français
+\SetKwFor{KwFor}{Pour\ }{à\ }{fin\ }  % Boucle "Pour ... à ... faire" sur la même ligne
+\SetKwInOut{KwInput}{Entrée}   % KwIn -> Entrée
+\SetKwInOut{KwOutput}{Sortie}  % KwOut -> Sortie
+\SetKwInOut{KwReturn}{Retour}  % Return -> Retour
+\SetKwFor{KwWhile}{Tant que\ }{faire\ }{Fin Tant que\ }
+
+\begin{document}
+	
+	\title{TP Relaxation Lagrangienne}
+	
+	\maketitle
+	
+	\begin{center}
+		\tableofcontents %affichage de la table des matières
+		\clearpage
+	\end{center}
+
+
+	\section{Introduction}
+
+	L'objectif de ce rapport est de rendre compte des résultats de la résolution d'un problème de sac à dos
+	via l'utilisation de la relaxation Lagrangienne au sein d'un algorithme de programmation dynamique face à 
+	ceux de la résolution de ce même problème suite à l'utilisation d'un solveur employant la relaxation linéaire. 
+	Nous comparerons les résultats obtenus et tacherons d'étudier l'efficacité de chacun de ces algorithmes tout en 
+	analysant les résultats obtenus. 
+\end{document}
