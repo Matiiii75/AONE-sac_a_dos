@@ -328,6 +328,7 @@ void sousGradients(const C_DKPData& data, double alpha, int M) {
 	K = inClique(data); 
 
 	do {
+		cout << "### starting new iteration ###" << endl;
 
 		isRea = false; 
 
@@ -343,7 +344,6 @@ void sousGradients(const C_DKPData& data, double alpha, int M) {
 		isRea = isRealisable(data, sol, plneValue, K); // regarde si c'est réalisable et extrait la valeur du plne 
 		// DEBUG
 
-		cout << endl;
 		cout << "FOUND SOL : "; 
 		cout << "["; 
 		for(uint i = 0; i < sol.size(); ++i) {
@@ -387,7 +387,7 @@ void sousGradients(const C_DKPData& data, double alpha, int M) {
 		// maj du u 
 		nouveau_u(data, sol, u_Q, bornePrimale, lagrangeValue, alpha);
 		alpha = alpha * 0.99; 
-
+		cout << "count : " << count << endl;
 	} while(count <= M); 
 	
 	// affichage des résultats 

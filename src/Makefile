@@ -1,27 +1,23 @@
+# voir ligne 6 pour savoir quels fichiers sont compilés par le makefile. 
+# crée un executable nommé "test". 
+# faire 'make' pour lancer le makefile
+# faire make clean pour nettoyer les .o
+
 CXX = g++
 CXXFLAGS = -Wall -std=c++17
-TARGET = test
+TARGET = main
 SRCS = DKP_Data.cpp sacDyna.cpp main.cpp
 OBJS = $(SRCS:.cpp=.o)
 
 all: $(TARGET)
 
 $(TARGET): $(OBJS)
-	$(CXX) $(CXXFLAGS) -o $@ $(OBJS)
+	$(CXX) $(CXXFLAGS) -o $@ $^
 
-gradient.o: gradient.cpp
+%.o: %.cpp
 	$(CXX) $(CXXFLAGS) -c $< -o $@
 
-../src/readfile.o: ../src/readfile.cpp
-	$(CXX) $(CXXFLAGS) -c $< -o $@
-
-clean:
-ifeq ($(OS),Windows_NT)
-	del /Q gradient.o $(TARGET).exe
-	del /Q ..\src\readfile.o
-else
-	rm -f gradient.o $(TARGET)
-	rm -f ../src/readfile.o
-endif
+clean: 
+	del /Q $(OBJS) $(TARGET).exe
 
 rebuild: clean all
