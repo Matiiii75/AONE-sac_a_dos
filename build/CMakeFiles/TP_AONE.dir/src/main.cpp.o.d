@@ -166,4 +166,15 @@ CMakeFiles/TP_AONE.dir/src/main.cpp.o: \
  /usr/include/c++/12/bits/codecvt.h \
  /usr/include/x86_64-linux-gnu/c++/12/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/12/bits/c++io.h \
- /usr/include/c++/12/bits/fstream.tcc /usr/include/c++/12/limits
+ /usr/include/c++/12/bits/fstream.tcc /usr/include/c++/12/limits \
+ /usr/include/c++/12/chrono /usr/include/c++/12/bits/chrono.h \
+ /usr/include/c++/12/ratio /usr/include/c++/12/ctime \
+ /usr/include/c++/12/bits/parse_numbers.h /usr/include/c++/12/iomanip \
+ /usr/include/c++/12/locale \
+ /usr/include/c++/12/bits/locale_facets_nonio.h \
+ /usr/include/x86_64-linux-gnu/c++/12/bits/time_members.h \
+ /usr/include/x86_64-linux-gnu/c++/12/bits/messages_members.h \
+ /usr/include/libintl.h /usr/include/c++/12/bits/locale_facets_nonio.tcc \
+ /usr/include/c++/12/bits/locale_conv.h \
+ /usr/include/c++/12/bits/quoted_string.h /usr/include/c++/12/sstream \
+ /usr/include/c++/12/bits/sstream.tcc

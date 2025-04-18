@@ -339,18 +339,31 @@ void sousGradients(const C_DKPData& data, double alpha, int M) {
 
 		cout << endl;
 		cout << "FOUND SOL : "; 
+		cout << "["; 
 		for(uint i = 0; i < sol.size(); ++i) {
-			cout << sol[i] << " "; 
-		} cout << endl;
+			cout << sol[i] << ", "; 
+		} cout << "]" << endl;
 		cout << "WITH VALUE : " << plneValue << endl;
 		cout << "GOT : " << isRea << endl;
 		cout << "LAGRANGEVALUE AT THIS STADE : " << lagrangeValue << endl;
 		cout << "BD AND BP AND THIS RATE : " << borneDuale << "/" << bornePrimale << endl;
 		cout << "VECTOR OF UQ  : "; 
 		for(uint i= 0; i < u_Q.size(); ++i) {
-			cout << u_Q[i] << " "; 
+			cout << u_Q[i] << ", "; 
 		} cout << endl;
-	
+		
+		cout << "profits : ["; 
+		for(uint i = 0;i<data._nbItems; ++i) {
+			cout << data._profits[i] << ", "; 
+		}
+		cout << "]" << endl;
+
+		cout << "poids : ["; 
+		for(uint i = 0; i < data._nbItems; ++i) {
+			cout << data._weights[i] << ", "; 
+		} 
+		cout << "]" << endl;
+
 		if(isRea) {
 			
 			if(abs(lagrangeValue - plneValue) < 1e-4) { // tolérance
@@ -367,7 +380,7 @@ void sousGradients(const C_DKPData& data, double alpha, int M) {
 
 		// maj du u 
 		nouveau_u(data, sol, u_Q, bornePrimale, lagrangeValue, alpha);
-		alpha = alpha*0.99; 
+		alpha = alpha * 0.99; 
 
 	} while(count <= M); 
 	

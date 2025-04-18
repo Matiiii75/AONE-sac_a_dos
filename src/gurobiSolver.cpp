@@ -78,7 +78,7 @@ void solver(const string& filename) {
         // Affichage solution trouvée 
         cout << "["; 
         for(int i = 0; i < data._nbItems; ++i) {
-            cout << x[i].get(GRB_DoubleAttr_X) << " "; 
+            cout << x[i].get(GRB_DoubleAttr_X) << ", "; 
         }
         cout << "]" << endl << endl;
 
@@ -96,5 +96,3 @@ int main(int argc, char* argv[]) {
     solver(filename);
     return 0;  
 }
-
-
