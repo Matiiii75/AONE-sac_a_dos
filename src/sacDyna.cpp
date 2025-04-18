@@ -295,7 +295,13 @@ void nouveau_u(const C_DKPData& data, const vector<int>& sol, vector<double>& u_
 	}
 	cout << "DENOMINATEUR : " << denominateur <<  endl;
 
-	double S = max(0.0, alpha*(valLagrangien - bornePrimale)/denominateur);
+	//double S = max(0.0, alpha*(valLagrangien - bornePrimale)/denominateur);
+	double S; 
+	if (denominateur == 0) {
+		S == -1; // permet de renvoyer nuew_UQ avec que des 0
+	} else  {
+		S = alpha*(valLagrangien - bornePrimale)/denominateur; 
+	} 
 
 	vector<double> new_u_Q; 
 	for(uint i = 0; i < u_Q.size(); ++i) {
@@ -327,7 +333,7 @@ void sousGradients(const C_DKPData& data, double alpha, int M) {
 
 		lagrangeValue = sacDynamique(data, u_Q, sol, K); // résoud lagrangien pour u fixé
 
-		if (lagrangeValue < borneDuale) { // si on améliore BD
+		if (lagrangeValue - borneDuale < -1e-3) { // si on améliore BD
 			borneDuale = lagrangeValue;  
 			count = 0; // remet compteur à 0
 		} else {
