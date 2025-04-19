@@ -388,6 +388,9 @@ void sousGradients(const C_DKPData& data, double alpha, int M) {
 		nouveau_u(data, sol, u_Q, bornePrimale, lagrangeValue, alpha);
 		alpha = alpha * 0.99; 
 		cout << "count : " << count << endl;
+		if(count > M*0.9) {
+			alpha = alpha *1.5; 
+		} 
 	} while(count <= M); 
 	
 	// affichage des résultats 

@@ -28,7 +28,7 @@ void solver(const string& filename) {
     for(int i = 0; i < data._nbItems; ++i) {
         stringstream ss; 
         ss << "x " << i; 
-        x[i] = model.addVar(0.0, 1.0, 1.0, GRB_BINARY, ss.str()); 
+        x[i] = model.addVar(0.0, 1.0, 1.0, GRB_CONTINUOUS, ss.str()); 
     }
 
     // Fonction objectif 

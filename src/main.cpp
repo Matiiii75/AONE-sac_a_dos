@@ -1,6 +1,6 @@
 #include "sacDyna.hpp"
 
-
+/*
 int main(int argc, char** argv) {
 
     string filename; 
@@ -37,5 +37,5 @@ int main(int argc, char** argv) {
 
     return 0; 
 }
-
+*/
 
