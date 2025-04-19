@@ -14,6 +14,10 @@ void saisir_u_Q(vector<double>& u_Q, const C_DKPData& data) {
 
 }
 
+void writeInFile(int bestPrimal, double bestDual, double time, char critereSTOP) {
+
+}
+
 
 vector<int> getSolution(const vector<vector<pair<double,int>>>& tab, int nbObj, int taille) {
 	// on sait que la solution se trouve à : tab[taille][nbObj] (taille = capacité max du sac)
@@ -284,6 +288,7 @@ void sousGradients(const C_DKPData& data, double alpha, int M) {
 	int bornePrimale = 0; // au début on va dire qu'une solution réalisable est de ne rien prendre donc BP = 0
 	double borneDuale = numeric_limits<double>::infinity(); // au début initialisé à l'infini 
 	bool isRea; 
+	char critereStop = 'I'; 
 
 	vector<vector<int>> K; // contiendra l'appartenance des objets aux cliques. 
 	K = inClique(data); 
@@ -332,16 +337,22 @@ void sousGradients(const C_DKPData& data, double alpha, int M) {
 		cout << "]" << endl;
 
 		if(isRea) {
-			
+			/*
 			if(abs(lagrangeValue - plneValue) < 1e-4) { // tolérance
-				cout << "OPTIMUM DETECTE ICI" << endl;
 				optSol = sol; 
 				bornePrimale = plneValue; 
+				critereStop = 'E'; 
 				break; // on sait que plneValue est optimale
 			}
+				*/
 			if(plneValue > bornePrimale) {
 				bornePrimale = plneValue; // maj BP
 				optSol = sol; // on stocke la solution la + optimale
+			}
+			if(lagrangeValue - bornePrimale < 1) {
+				cout << "here" << endl;
+				critereStop = 'E'; // critère d'écart
+				break;
 			}
 		}
 
@@ -349,9 +360,7 @@ void sousGradients(const C_DKPData& data, double alpha, int M) {
 		nouveau_u(data, sol, u_Q, bornePrimale, lagrangeValue, alpha);
 		alpha = alpha * 0.99; 
 		cout << "count : " << count << endl;
-		// if(count == M/10) {
-		// 	alpha /= 2; 
-		// } 
+
 	} while(count <= M); 
 	
 	// affichage des résultats 
