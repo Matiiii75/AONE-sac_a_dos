@@ -42,7 +42,7 @@ void afficheK(const vector<vector<int>>& K);
  * @param K le tableau inCliques
  * @return true si c'est réalisable et false sinon
  */
-bool isRealisable(const C_DKPData& data, const vector<int>& sol, double& solValue, const vector<vector<int>>& K);
+bool isRealisable(const C_DKPData& data, const vector<int>& sol, int& solValue, const vector<vector<int>>& K);
 
 void saisir_u_Q(vector<double>& u_Q, const C_DKPData& data); 
 
@@ -64,7 +64,7 @@ double produitScalaire(const vector<double>& X1, const vector<int>& X2);
  * @param alpha alpha choisit 
  * 
  */
-void nouveau_u(const C_DKPData& data, const vector<int>& sol, vector<double>& u_Q , double bornePrimale, double valLagrangien, double alpha);
+void nouveau_u(const C_DKPData& data, const vector<int>& sol, vector<double>& u_Q, int bornePrimale, double valLagrangien, double alpha);
 
 /**
  * @brief applique les sous-gradients pour trouver les u optimaux et ainsi résoudre le problème de sac à dos avec contraintes de compatibilité

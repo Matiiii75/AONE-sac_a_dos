@@ -34,10 +34,7 @@ vector<int> getSolution(const vector<vector<pair<double,int>>>& tab, int nbObj, 
 			// si la valeur située à tab[taille][nbObj] est nulle, c'est qu'on n'a jamais pris d'objets dans le sac avant l'état (i_courant, c_courant)
 			// donc break
 			break;
-		/*}
-		if(c_courant == 0) {
-			// si c_courant est nul, c'est qu'on a pas pris les objets précédents cet état donc inutile de continuer
-			break;*/
+		
 		} else {
 			val = tab[c_courant][i_courant].first; 
 			pred = tab[c_courant][i_courant].second; 
@@ -190,53 +187,16 @@ double sacDynamique(const C_DKPData& data,const vector<double>& u_Q, vector<int>
 	cout << "S " << somme << endl;
 	cout << "tab " << tab[data._capacity][data._nbItems].first << endl;
 	double val = tab[data._capacity][data._nbItems].first + somme;  
-/*
-	// DEBUG ############################################################################
-	double sum_profit = 0;
-	vector<double> clique_penalties(u_Q.size(), 0.0);
-	
-	// Partie 1 : somme des profits
-	for (int i = 0; i < data._nbItems; ++i) {
-		if (sol[i] == 1) {
-			sum_profit += data._profits[i];
-			// On met à jour les pénalités par clique
-			for (int j = 0; j < K[i].size(); ++j) {
-				if (K[i][j] == 1) {
-					clique_penalties[j] += 1.0;
-				}
-			}
-		}
-	}
-	
-	// Partie 2 : pénalité
-	double penalty = 0;
-	for (int q = 0; q < u_Q.size(); ++q) {
-		penalty += u_Q[q] * (clique_penalties[q] - 1);
-	}
-	
-	double L_manual = sum_profit - penalty;
-	
-	cout << "### DEBUG CALCUL MANUEL ###" << endl;
-	cout << "Solution x : ";
-	for (int x : sol) cout << x << " ";
-	cout << "\nProfit sum: " << sum_profit << endl;
-	cout << "Clique penalties : ";
-	for (double v : clique_penalties) cout << v << " ";
-	cout << "\nPenalty term: " << penalty << endl;
-	cout << "Manual Lagrange value: " << L_manual << endl;
-	cout << "Computed value: " << val << endl;
-	
-*/
 
 	return val; // renvoie la valeur optimale du lagrangien. 
 }
 
 // fonction qui vérifie qu'une solution est bien réalisable 
 
-bool isRealisable(const C_DKPData& data, const vector<int>& sol, double& solValue, const vector<vector<int>>& K) {
+bool isRealisable(const C_DKPData& data, const vector<int>& sol, int& solValue, const vector<vector<int>>& K) {
 	// vérifier la contrainte de capacité et en même temps calculer solValue la valeur de la solution dans le PLNE
 	solValue = 0; 
-	double capacityUsed = 0; 
+	int capacityUsed = 0; 
 
 	for(int i = 0; i < data._nbItems; ++i) { // calcul valeur et capacité utilisée
 		solValue += sol[i]*data._profits[i]; 
@@ -269,10 +229,10 @@ bool isRealisable(const C_DKPData& data, const vector<int>& sol, double& solValu
 }
 
 
-void nouveau_u(const C_DKPData& data, const vector<int>& sol, vector<double>& u_Q , double bornePrimale, double valLagrangien, double alpha) {
+void nouveau_u(const C_DKPData& data, const vector<int>& sol, vector<double>& u_Q , int bornePrimale, double valLagrangien, double alpha) {
 
-	vector<double> constrValues; 
-	double val; 
+	vector<int> constrValues; 
+	int val; 
 	// calcul du dénominateur (norme euclidienne de la contrainte relaxée)
 	for(int i = 0; i < data._nbCliques; ++i) { // pr tt clique
 		val = 0; 
@@ -289,7 +249,7 @@ void nouveau_u(const C_DKPData& data, const vector<int>& sol, vector<double>& u_
 	cout << endl;
 
 	// produit scalaire 
-	double denominateur = 0; 
+	int denominateur = 0; 
 	for(uint i = 0; i < constrValues.size(); ++i) {
 		denominateur += constrValues[i]*constrValues[i]; 
 	}
@@ -319,8 +279,9 @@ void sousGradients(const C_DKPData& data, double alpha, int M) {
 	vector<int> sol; // vecteur des solutions 
 	vector<int> optSol(data._nbItems, 0); // stockera solution optimale. Au début, on a choisis de prendre BD = 0 avec solOpt : prendre 0 objet
 	int count = 0; // compteur qui permettra de stopper l'algorithme après un trop grand nombre d'itérations.
-	double lagrangeValue, plneValue;  // valeur trouvée dans Lagragien, valeur ds plne, S le pas s^t
-	double bornePrimale = 0; // au début on va dire qu'une solution réalisable est de ne rien prendre donc BP = 0
+	double lagrangeValue; 
+	int plneValue;  // valeur trouvée dans Lagragien, valeur ds plne, S le pas s^t
+	int bornePrimale = 0; // au début on va dire qu'une solution réalisable est de ne rien prendre donc BP = 0
 	double borneDuale = numeric_limits<double>::infinity(); // au début initialisé à l'infini 
 	bool isRea; 
 
@@ -386,11 +347,11 @@ void sousGradients(const C_DKPData& data, double alpha, int M) {
 
 		// maj du u 
 		nouveau_u(data, sol, u_Q, bornePrimale, lagrangeValue, alpha);
-		//alpha = alpha * 0.99; 
+		alpha = alpha * 0.99; 
 		cout << "count : " << count << endl;
-		if(count == 10) {
-			alpha /= 2; 
-		} 
+		// if(count == M/10) {
+		// 	alpha /= 2; 
+		// } 
 	} while(count <= M); 
 	
 	// affichage des résultats 
