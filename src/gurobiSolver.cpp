@@ -7,7 +7,8 @@
 
 using namespace std;
 
-void solver(const string& filename) {
+
+void solver(string filename) {
     
 
     C_DKPData data(filename); 
@@ -81,6 +82,20 @@ void solver(const string& filename) {
             cout << x[i].get(GRB_DoubleAttr_X) << ", "; 
         }
         cout << "]" << endl << endl;
+
+        // écriture dans un fichier 
+
+        size_t pos = filename.find_last_of("/");
+	    filename = filename.substr(pos+1); 
+
+        ofstream myfile; 
+        myfile.open("results.txt", ios::app); 
+
+        myfile << "Instance: " << filename << endl;
+        myfile << "Algo: Guro" << endl; 
+        myfile << "bestDual: " << model.get(GRB_DoubleAttr_ObjVal) << endl;
+        myfile << "time: " << model.get(GRB_DoubleAttr_Runtime) << endl;
+        myfile << "_____________________________________________________" << endl << endl;
 
     } 
     else {

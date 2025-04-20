@@ -6,22 +6,17 @@ int main(int argc, char** argv) {
     string filename; 
     double alpha; 
     int M;
-    cout << argc << endl;
+
     if(argc == 4) {   // récup nom de l'instance 
-        cout << "ici" << endl;
         filename = argv[1]; 
         alpha = atof(argv[2]); 
         M = atoi(argv[3]); 
     } else {
-        cout << "Enter instance file name :";
-        cin >> filename;  
+        cerr << "Expected exactly 4 args" << endl;
+        return -1; 
     }
 
-    cout << "ici"; 
-
     C_DKPData data(filename); 
-
-    cout << data; 
 
     // cout << "Saisir l'alpha (< 2 ; > 0) : "; 
     // cin >> alpha; 
@@ -38,7 +33,7 @@ int main(int argc, char** argv) {
     // cin >> M; 
     // cout << endl;
 
-    sousGradients(data, alpha, M); 
+    sousGradients(data, alpha, M, filename); 
 
     return 0; 
 }

@@ -1,5 +1,7 @@
 #include "sacDyna.hpp"
 
+using namespace std; 
+
 // fonction qui permet à l'utilisateur de saisir les u_Q manuellement
 
 void saisir_u_Q(vector<double>& u_Q, const C_DKPData& data) {
@@ -14,8 +16,25 @@ void saisir_u_Q(vector<double>& u_Q, const C_DKPData& data) {
 
 }
 
-void writeInFile(int bestPrimal, double bestDual, double time, char critereSTOP) {
+void writeInFile(int bestPrimal, double bestDual, double time, char critereSTOP, string filename, double alpha, int M) {
+	
+	// extraction du nom de l'instance (on enlève le path)
+	size_t pos = filename.find_last_of("/");
+	filename = filename.substr(pos+1); 
 
+	ofstream myfile; 
+	myfile.open("results.txt", ios::app); 
+
+	myfile << "Instance: " << filename << endl;
+	myfile << "Algo: dyna" << endl;
+	myfile << "Alpha: " << alpha << endl;
+	myfile << "M: " << M << endl;
+	myfile << "BestPrimal: " << bestPrimal << endl;
+	myfile << "BestDual: " << bestDual << endl;
+	myfile << "Time: " << time/1000 << endl;
+	myfile << "stopCrit: " << critereSTOP << endl;
+	myfile << "_____________________________________________________" << endl << endl;
+	
 }
 
 
@@ -141,14 +160,13 @@ double sacDynamique(const C_DKPData& data,const vector<double>& u_Q, vector<int>
 		tab[i][0].first = 0; 
 		tab[i][0].second = 0; 
 	}
-	cout << "profit lagrangien: "; 
 	for(int i = 1; i < data._nbItems+1; ++i) { // d'objet 1 au n-ème*
 		
 		// on fait le produit scalaire entre u_Q (vecteur de pénalités) et K[i], 
 		// le vecteur qui représente l'appartenance de l'objet i aux différentes classes
 		double somme_u_Q; 
 		somme_u_Q = produitScalaire(u_Q, K[i-1]); 
-		cout << data._profits[i-1] - somme_u_Q << " ";
+		
 		for(int j = 0; j < data._capacity+1; ++j) { // de capacité 0 à C
 			
 			int m; 
@@ -177,7 +195,6 @@ double sacDynamique(const C_DKPData& data,const vector<double>& u_Q, vector<int>
 			tab[j][i].second = pred; 
 		}
 	}
-	cout << endl;
 	
 	// récupérage de la solution 
 	 
@@ -188,8 +205,7 @@ double sacDynamique(const C_DKPData& data,const vector<double>& u_Q, vector<int>
 	for(uint i = 0; i < u_Q.size(); ++i) {
 		somme += u_Q[i]; 
 	}
-	cout << "S " << somme << endl;
-	cout << "tab " << tab[data._capacity][data._nbItems].first << endl;
+
 	double val = tab[data._capacity][data._nbItems].first + somme;  
 
 	return val; // renvoie la valeur optimale du lagrangien. 
@@ -245,19 +261,12 @@ void nouveau_u(const C_DKPData& data, const vector<int>& sol, vector<double>& u_
 		}
 		constrValues.push_back(val-1);
 	}
-	// DEBUG  affichage constrValues
-	cout << "CONSTRVALUES : "; 
-	for(uint i = 0; i < constrValues.size(); ++i) {
-		cout << constrValues[i] << " "; 
-	}
-	cout << endl;
 
 	// produit scalaire 
 	int denominateur = 0; 
 	for(uint i = 0; i < constrValues.size(); ++i) {
 		denominateur += constrValues[i]*constrValues[i]; 
 	}
-	cout << "DENOMINATEUR : " << denominateur <<  endl;
 
 	//double S = max(0.0, alpha*(valLagrangien - bornePrimale)/denominateur);
 	double S; 
@@ -277,7 +286,7 @@ void nouveau_u(const C_DKPData& data, const vector<int>& sol, vector<double>& u_
 
 // fonction qui implémente les sous-gradients 
 
-void sousGradients(const C_DKPData& data, double alpha, int M) {
+void sousGradients(const C_DKPData& data, double alpha, int M,const string& filename) {
 
 	vector<double> u_Q(data._nbCliques, 0.0); // initie les u_Q à 0. 
 	vector<int> sol; // vecteur des solutions 
@@ -289,12 +298,15 @@ void sousGradients(const C_DKPData& data, double alpha, int M) {
 	double borneDuale = numeric_limits<double>::infinity(); // au début initialisé à l'infini 
 	bool isRea; 
 	char critereStop = 'I'; 
+	double originalAlpha = alpha; // copie le alpha original pr les stats
 
 	vector<vector<int>> K; // contiendra l'appartenance des objets aux cliques. 
 	K = inClique(data); 
 
+	auto deb = std::chrono::high_resolution_clock::now(); 
+
 	do {
-		cout << "### starting new iteration ###" << endl;
+		//cout << "### starting new iteration ###" << endl;
 
 		isRea = false; 
 
@@ -308,33 +320,32 @@ void sousGradients(const C_DKPData& data, double alpha, int M) {
 		}
 
 		isRea = isRealisable(data, sol, plneValue, K); // regarde si c'est réalisable et extrait la valeur du plne 
-		// DEBUG
 
-		cout << "FOUND SOL : "; 
-		cout << "["; 
-		for(uint i = 0; i < sol.size(); ++i) {
-			cout << sol[i] << ", "; 
-		} cout << "]" << endl;
-		cout << "WITH VALUE : " << plneValue << endl;
-		cout << "GOT : " << isRea << endl;
-		cout << "LAGRANGEVALUE AT THIS STADE : " << lagrangeValue << endl;
-		cout << "BD AND BP AND THIS RATE : " << borneDuale << "/" << bornePrimale << endl;
-		cout << "VECTOR OF UQ  : "; 
-		for(uint i= 0; i < u_Q.size(); ++i) {
-			cout << u_Q[i] << ", "; 
-		} cout << endl;
+		// cout << "FOUND SOL : "; 
+		// cout << "["; 
+		// for(uint i = 0; i < sol.size(); ++i) {
+		// 	cout << sol[i] << ", "; 
+		// } cout << "]" << endl;
+		// cout << "WITH VALUE : " << plneValue << endl;
+		// cout << "GOT : " << isRea << endl;
+		// cout << "LAGRANGEVALUE AT THIS STADE : " << lagrangeValue << endl;
+		// cout << "BD AND BP AND THIS RATE : " << borneDuale << "/" << bornePrimale << endl;
+		// cout << "VECTOR OF UQ  : "; 
+		// for(uint i= 0; i < u_Q.size(); ++i) {
+		// 	cout << u_Q[i] << ", "; 
+		// } cout << endl;
 		
-		cout << "profits : ["; 
-		for(uint i = 0;i<data._nbItems; ++i) {
-			cout << data._profits[i] << ", "; 
-		}
-		cout << "]" << endl;
+		// cout << "profits : ["; 
+		// for(uint i = 0;i<data._nbItems; ++i) {
+		// 	cout << data._profits[i] << ", "; 
+		// }
+		// cout << "]" << endl;
 
-		cout << "poids : ["; 
-		for(uint i = 0; i < data._nbItems; ++i) {
-			cout << data._weights[i] << ", "; 
-		} 
-		cout << "]" << endl;
+		// cout << "poids : ["; 
+		// for(uint i = 0; i < data._nbItems; ++i) {
+		// 	cout << data._weights[i] << ", "; 
+		// } 
+		// cout << "]" << endl;
 
 		if(isRea) {
 			/*
@@ -350,7 +361,6 @@ void sousGradients(const C_DKPData& data, double alpha, int M) {
 				optSol = sol; // on stocke la solution la + optimale
 			}
 			if(lagrangeValue - bornePrimale < 1) {
-				cout << "here" << endl;
 				critereStop = 'E'; // critère d'écart
 				break;
 			}
@@ -359,17 +369,12 @@ void sousGradients(const C_DKPData& data, double alpha, int M) {
 		// maj du u 
 		nouveau_u(data, sol, u_Q, bornePrimale, lagrangeValue, alpha);
 		alpha = alpha * 0.99; 
-		cout << "count : " << count << endl;
+		//cout << "count : " << count << endl;
 
 	} while(count <= M); 
-	
-	// affichage des résultats 
-	cout << "## Solution optimale trouvée : [ "; 
-	for(uint i = 0; i < optSol.size(); ++i) {
-		cout << optSol[i] << " "; 
-	} 
-	cout << "]" << endl;
-	cout << "de valeur : " << bornePrimale << endl;
 
-	cout << "Best dual bound : " << borneDuale << endl;
+	auto fin = std::chrono::high_resolution_clock::now();
+	double temps = chrono::duration_cast<chrono::milliseconds>(fin-deb).count(); 
+
+	writeInFile(bornePrimale, borneDuale, temps, critereStop, filename, originalAlpha, M); 
 }

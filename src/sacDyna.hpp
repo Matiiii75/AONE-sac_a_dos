@@ -4,6 +4,8 @@
 
 void afficheResults(const vector<vector<pair<double,int>>>& tab);
 
+void writeInFile(int bestPrimal, double bestDual, double time, char critereSTOP, string filename, double alpha, int M); 
+
 /**
  * @brief récupère la solution trouvée en parcourant à revers le tableau grâce aux pred stockés. En faisant la différence entre chaque labels,
  *  on sait quels objets se trouvent dans la solution.
@@ -71,5 +73,6 @@ void nouveau_u(const C_DKPData& data, const vector<int>& sol, vector<double>& u_
  * @param data données du pb
  * @param alpha entre 0 et 2, fournit par l'utilisateur
  * @param M nombre d'irétation max sans améliorer la solution, saisit par l'utilisateur
+ * @param filename instance traitée  
  */
-void sousGradients(const C_DKPData& data, double alpha, int M); 
+void sousGradients(const C_DKPData& data, double alpha, int M, const string& filename); 

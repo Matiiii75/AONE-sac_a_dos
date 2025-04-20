@@ -1,0 +1,9090 @@
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 100
+BestPrimal: 0
+BestDual: 1953.68
+Time: 22.818
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 200
+BestPrimal: 0
+BestDual: 1953.68
+Time: 29.225
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 300
+BestPrimal: 0
+BestDual: 1953.68
+Time: 31.629
+ stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 400
+BestPrimal: 0
+BestDual: 1953.68
+Time: 34.299
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 500
+BestPrimal: 0
+BestDual: 1953.68
+Time: 36.268
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 100
+BestPrimal: 0
+BestDual: 1953.68
+Time: 24.894
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 200
+BestPrimal: 0
+BestDual: 1953.68
+Time: 30.692
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 300
+BestPrimal: 0
+BestDual: 1953.68
+Time: 34.218
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 400
+BestPrimal: 0
+BestDual: 1953.68
+Time: 37.315
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 500
+BestPrimal: 0
+BestDual: 1953.68
+Time: 39.908
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 100
+BestPrimal: 0
+BestDual: 2020
+Time: 2.399
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 200
+BestPrimal: 0
+BestDual: 1953.68
+Time: 32.752
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 300
+BestPrimal: 0
+BestDual: 1953.68
+Time: 33.549
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 400
+BestPrimal: 0
+BestDual: 1953.68
+Time: 36.217
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 500
+BestPrimal: 0
+BestDual: 1953.68
+Time: 39.57
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 100
+BestPrimal: 0
+BestDual: 2020
+Time: 2.554
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 200
+BestPrimal: 0
+BestDual: 1953.68
+Time: 30.251
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 300
+BestPrimal: 0
+BestDual: 1953.68
+Time: 31.778
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 400
+BestPrimal: 0
+BestDual: 1953.68
+Time: 38.139
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 500
+BestPrimal: 0
+BestDual: 1953.68
+Time: 35.527
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 100
+BestPrimal: 0
+BestDual: 2020
+Time: 2.435
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 200
+BestPrimal: 0
+BestDual: 1953.68
+Time: 31.13
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 300
+BestPrimal: 0
+BestDual: 1953.68
+Time: 33.314
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 400
+BestPrimal: 0
+BestDual: 1953.68
+Time: 36.339
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 500
+BestPrimal: 0
+BestDual: 1953.68
+Time: 37.919
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 100
+BestPrimal: 0
+BestDual: 2020
+Time: 2.501
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 200
+BestPrimal: 0
+BestDual: 1953.68
+Time: 35.507
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 300
+BestPrimal: 0
+BestDual: 1953.68
+Time: 34.626
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 400
+BestPrimal: 0
+BestDual: 1953.68
+Time: 35.587
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 500
+BestPrimal: 0
+BestDual: 1953.68
+Time: 38.946
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 100
+BestPrimal: 0
+BestDual: 2020
+Time: 2.561
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 200
+BestPrimal: 0
+BestDual: 1953.68
+Time: 30.107
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 300
+BestPrimal: 0
+BestDual: 1953.68
+Time: 32.159
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 400
+BestPrimal: 0
+BestDual: 1953.68
+Time: 35.024
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 500
+BestPrimal: 0
+BestDual: 1953.68
+Time: 38.019
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 100
+BestPrimal: 0
+BestDual: 2020
+Time: 2.401
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 200
+BestPrimal: 0
+BestDual: 1953.68
+Time: 29.603
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 300
+BestPrimal: 0
+BestDual: 1953.68
+Time: 31.543
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 400
+BestPrimal: 0
+BestDual: 1953.68
+Time: 33.869
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 500
+BestPrimal: 0
+BestDual: 1953.68
+Time: 35.686
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 100
+BestPrimal: 0
+BestDual: 2020
+Time: 2.322
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 200
+BestPrimal: 0
+BestDual: 1953.68
+Time: 31.364
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 300
+BestPrimal: 0
+BestDual: 1953.68
+Time: 32.939
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 400
+BestPrimal: 0
+BestDual: 1953.68
+Time: 36.916
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 500
+BestPrimal: 0
+BestDual: 1953.68
+Time: 42.705
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 100
+BestPrimal: 0
+BestDual: 2020
+Time: 2.914
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 200
+BestPrimal: 0
+BestDual: 1953.68
+Time: 33.59
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 300
+BestPrimal: 0
+BestDual: 1953.68
+Time: 35.677
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 400
+BestPrimal: 0
+BestDual: 1953.68
+Time: 38.093
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 500
+BestPrimal: 0
+BestDual: 1953.68
+Time: 38.299
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 100
+BestPrimal: 0
+BestDual: 2020
+Time: 2.348
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 200
+BestPrimal: 0
+BestDual: 1953.68
+Time: 30.886
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 300
+BestPrimal: 0
+BestDual: 1953.68
+Time: 34.581
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 400
+BestPrimal: 0
+BestDual: 1953.68
+Time: 37.708
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 500
+BestPrimal: 0
+BestDual: 1953.68
+Time: 40.682
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 100
+BestPrimal: 0
+BestDual: 2020
+Time: 2.42
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 200
+BestPrimal: 1940
+BestDual: 1953.99
+Time: 34.434
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 300
+BestPrimal: 1940
+BestDual: 1953.99
+Time: 36.543
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 400
+BestPrimal: 1940
+BestDual: 1953.99
+Time: 39.229
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 500
+BestPrimal: 1940
+BestDual: 1953.99
+Time: 42.18
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 100
+BestPrimal: 0
+BestDual: 10380
+Time: 10.554
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 200
+BestPrimal: 0
+BestDual: 10380
+Time: 22.052
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 300
+BestPrimal: 0
+BestDual: 10380
+Time: 32.833
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 400
+BestPrimal: 0
+BestDual: 10380
+Time: 44.239
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 500
+BestPrimal: 0
+BestDual: 10375.2
+Time: 234.035
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 100
+BestPrimal: 0
+BestDual: 10380
+Time: 10.907
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 200
+BestPrimal: 0
+BestDual: 10380
+Time: 21.829
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 300
+BestPrimal: 0
+BestDual: 10380
+Time: 32.78
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 400
+BestPrimal: 0
+BestDual: 10380
+Time: 43.794
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 500
+BestPrimal: 0
+BestDual: 10375.2
+Time: 200.147
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 100
+BestPrimal: 0
+BestDual: 10380
+Time: 10.991
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 200
+BestPrimal: 0
+BestDual: 10380
+Time: 22.736
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 300
+BestPrimal: 0
+BestDual: 10380
+Time: 33.095
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 400
+BestPrimal: 0
+BestDual: 10380
+Time: 44.609
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 500
+BestPrimal: 0
+BestDual: 10380
+Time: 53.979
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 100
+BestPrimal: 0
+BestDual: 10380
+Time: 11.095
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 200
+BestPrimal: 0
+BestDual: 10380
+Time: 22.35
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 300
+BestPrimal: 0
+BestDual: 10380
+Time: 32.764
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 400
+BestPrimal: 0
+BestDual: 10380
+Time: 44.612
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 500
+BestPrimal: 0
+BestDual: 10380
+Time: 55.107
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 100
+BestPrimal: 0
+BestDual: 10380
+Time: 11.68
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 200
+BestPrimal: 0
+BestDual: 10380
+Time: 22.834
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 300
+BestPrimal: 0
+BestDual: 10380
+Time: 34.133
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 400
+BestPrimal: 0
+BestDual: 10380
+Time: 43.817
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 500
+BestPrimal: 0
+BestDual: 10380
+Time: 53.433
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 100
+BestPrimal: 0
+BestDual: 10380
+Time: 10.705
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 200
+BestPrimal: 0
+BestDual: 10380
+Time: 21.505
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 300
+BestPrimal: 0
+BestDual: 10380
+Time: 31.884
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 400
+BestPrimal: 0
+BestDual: 10380
+Time: 42.968
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 500
+BestPrimal: 0
+BestDual: 10380
+Time: 53.508
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 100
+BestPrimal: 0
+BestDual: 10380
+Time: 11.03
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 200
+BestPrimal: 0
+BestDual: 10380
+Time: 22.483
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 300
+BestPrimal: 0
+BestDual: 10380
+Time: 31.512
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 400
+BestPrimal: 0
+BestDual: 10380
+Time: 44.188
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 500
+BestPrimal: 0
+BestDual: 10380
+Time: 53.607
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 100
+BestPrimal: 0
+BestDual: 10380
+Time: 10.559
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 200
+BestPrimal: 0
+BestDual: 10380
+Time: 21.198
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 300
+BestPrimal: 0
+BestDual: 10380
+Time: 32.689
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 400
+BestPrimal: 0
+BestDual: 10380
+Time: 42.883
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 500
+BestPrimal: 0
+BestDual: 10380
+Time: 53.064
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 100
+BestPrimal: 0
+BestDual: 10380
+Time: 10.941
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 200
+BestPrimal: 0
+BestDual: 10380
+Time: 21.621
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 300
+BestPrimal: 0
+BestDual: 10380
+Time: 32.529
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 400
+BestPrimal: 0
+BestDual: 10380
+Time: 42.016
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 500
+BestPrimal: 0
+BestDual: 10380
+Time: 52.669
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 100
+BestPrimal: 10340
+BestDual: 10375.2
+Time: 86.694
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 200
+BestPrimal: 10340
+BestDual: 10375.2
+Time: 108.487
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 300
+BestPrimal: 10340
+BestDual: 10375.2
+Time: 122.181
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 400
+BestPrimal: 10340
+BestDual: 10375.2
+Time: 140.786
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 500
+BestPrimal: 10340
+BestDual: 10375.2
+Time: 147.829
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 100
+BestPrimal: 0
+BestDual: 10380
+Time: 11.307
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 200
+BestPrimal: 0
+BestDual: 10380
+Time: 23.102
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 300
+BestPrimal: 0
+BestDual: 10380
+Time: 32.947
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 400
+BestPrimal: 0
+BestDual: 10380
+Time: 42.715
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 500
+BestPrimal: 0
+BestDual: 10380
+Time: 53.961
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 100
+BestPrimal: 0
+BestDual: 10380
+Time: 11.157
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 200
+BestPrimal: 0
+BestDual: 10380
+Time: 22
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 300
+BestPrimal: 0
+BestDual: 10380
+Time: 33.166
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 400
+BestPrimal: 0
+BestDual: 10380
+Time: 44.579
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 500
+BestPrimal: 0
+BestDual: 10380
+Time: 55.567
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 100
+BestPrimal: 7543
+BestDual: 7543
+Time: 3.498
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 200
+BestPrimal: 7543
+BestDual: 7543
+Time: 3.455
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 300
+BestPrimal: 7543
+BestDual: 7543
+Time: 3.383
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 400
+BestPrimal: 7543
+BestDual: 7543
+Time: 3.439
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 500
+BestPrimal: 7543
+BestDual: 7543
+Time: 3.665
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 100
+BestPrimal: 7543
+BestDual: 7543
+Time: 4.128
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 200
+BestPrimal: 7543
+BestDual: 7543
+Time: 4.293
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 300
+BestPrimal: 7543
+BestDual: 7543
+Time: 4.251
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 400
+BestPrimal: 7543
+BestDual: 7543
+Time: 4.238
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 500
+BestPrimal: 7543
+BestDual: 7543
+Time: 4.334
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 100
+BestPrimal: 7543
+BestDual: 7543
+Time: 1.261
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 200
+BestPrimal: 7543
+BestDual: 7543
+Time: 1.151
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 300
+BestPrimal: 7543
+BestDual: 7543
+Time: 1.212
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 400
+BestPrimal: 7543
+BestDual: 7543
+Time: 1.147
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 500
+BestPrimal: 7543
+BestDual: 7543
+Time: 1.133
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 100
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.304
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 200
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.182
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 300
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.382
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 400
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.068
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 500
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.013
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 100
+BestPrimal: 7543
+BestDual: 7543
+Time: 2.773
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 200
+BestPrimal: 7543
+BestDual: 7543
+Time: 2.689
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 300
+BestPrimal: 7543
+BestDual: 7543
+Time: 2.788
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 400
+BestPrimal: 7543
+BestDual: 7543
+Time: 2.802
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 500
+BestPrimal: 7543
+BestDual: 7543
+Time: 2.801
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 100
+BestPrimal: 7543
+BestDual: 7543
+Time: 2.324
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 200
+BestPrimal: 7543
+BestDual: 7543
+Time: 2.103
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 300
+BestPrimal: 7543
+BestDual: 7543
+Time: 2.254
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 400
+BestPrimal: 7543
+BestDual: 7543
+Time: 2.316
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 500
+BestPrimal: 7543
+BestDual: 7543
+Time: 2.352
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 100
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.563
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 200
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.495
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 300
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.359
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 400
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.442
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 500
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.391
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 100
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.544
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 200
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.197
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 300
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.282
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 400
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.315
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 500
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.356
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 100
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.81
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 200
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.877
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 300
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.789
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 400
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.777
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 500
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.742
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 100
+BestPrimal: 7543
+BestDual: 7543
+Time: 3.429
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 200
+BestPrimal: 7543
+BestDual: 7543
+Time: 3.313
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 300
+BestPrimal: 7543
+BestDual: 7543
+Time: 3.246
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 400
+BestPrimal: 7543
+BestDual: 7543
+Time: 3.478
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 500
+BestPrimal: 7543
+BestDual: 7543
+Time: 3.433
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 100
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.583
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 200
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.702
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 300
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.575
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 400
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.893
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 500
+BestPrimal: 7543
+BestDual: 7543
+Time: 5.609
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 100
+BestPrimal: 7543
+BestDual: 7543
+Time: 4.711
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 200
+BestPrimal: 7543
+BestDual: 7543
+Time: 4.724
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 300
+BestPrimal: 7543
+BestDual: 7543
+Time: 4.792
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 400
+BestPrimal: 7543
+BestDual: 7543
+Time: 4.757
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 500
+BestPrimal: 7543
+BestDual: 7543
+Time: 4.665
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 0.8
+M: 100
+BestPrimal: 17
+BestDual: 17.0436
+Time: 0.009
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 0.8
+M: 200
+BestPrimal: 17
+BestDual: 17.0436
+Time: 0.011
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 0.8
+M: 300
+BestPrimal: 17
+BestDual: 17.0436
+Time: 0.007
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 0.8
+M: 400
+BestPrimal: 17
+BestDual: 17.0436
+Time: 0.006
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 0.8
+M: 500
+BestPrimal: 17
+BestDual: 17.0436
+Time: 0.004
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 0.9
+M: 100
+BestPrimal: 17
+BestDual: 17.1226
+Time: 0.009
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 0.9
+M: 200
+BestPrimal: 17
+BestDual: 17.1226
+Time: 0.008
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 0.9
+M: 300
+BestPrimal: 17
+BestDual: 17.1226
+Time: 0.008
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 0.9
+M: 400
+BestPrimal: 17
+BestDual: 17.1226
+Time: 0.007
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 0.9
+M: 500
+BestPrimal: 17
+BestDual: 17.1226
+Time: 0.005
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1
+M: 100
+BestPrimal: 17
+BestDual: 17.1332
+Time: 0.011
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1
+M: 200
+BestPrimal: 17
+BestDual: 17.1332
+Time: 0.008
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1
+M: 300
+BestPrimal: 17
+BestDual: 17.1332
+Time: 0.003
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1
+M: 400
+BestPrimal: 17
+BestDual: 17.1332
+Time: 0.008
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1
+M: 500
+BestPrimal: 17
+BestDual: 17.1332
+Time: 0.007
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.1
+M: 100
+BestPrimal: 17
+BestDual: 17.1305
+Time: 0.007
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.1
+M: 200
+BestPrimal: 17
+BestDual: 17.1305
+Time: 0.006
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.1
+M: 300
+BestPrimal: 17
+BestDual: 17.1305
+Time: 0.005
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.1
+M: 400
+BestPrimal: 17
+BestDual: 17.1305
+Time: 0.004
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.1
+M: 500
+BestPrimal: 17
+BestDual: 17.1305
+Time: 0.004
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.2
+M: 100
+BestPrimal: 17
+BestDual: 17.3435
+Time: 0.009
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.2
+M: 200
+BestPrimal: 17
+BestDual: 17.3435
+Time: 0.004
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.2
+M: 300
+BestPrimal: 17
+BestDual: 17.3435
+Time: 0.005
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.2
+M: 400
+BestPrimal: 17
+BestDual: 17.3435
+Time: 0.004
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.2
+M: 500
+BestPrimal: 17
+BestDual: 17.3435
+Time: 0.008
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.3
+M: 100
+BestPrimal: 9
+BestDual: 19
+Time: 0.003
+stopCrit: I
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.3
+M: 200
+BestPrimal: 17
+BestDual: 17.0559
+Time: 0.007
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.3
+M: 300
+BestPrimal: 17
+BestDual: 17.0559
+Time: 0.007
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.3
+M: 400
+BestPrimal: 17
+BestDual: 17.0559
+Time: 0.005
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.3
+M: 500
+BestPrimal: 17
+BestDual: 17.0559
+Time: 0.012
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.4
+M: 100
+BestPrimal: 9
+BestDual: 19
+Time: 0.005
+stopCrit: I
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.4
+M: 200
+BestPrimal: 17
+BestDual: 17.2592
+Time: 0.006
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.4
+M: 300
+BestPrimal: 17
+BestDual: 17.2592
+Time: 0.009
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.4
+M: 400
+BestPrimal: 17
+BestDual: 17.2592
+Time: 0.009
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.4
+M: 500
+BestPrimal: 17
+BestDual: 17.2592
+Time: 0.006
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.5
+M: 100
+BestPrimal: 17
+BestDual: 17.2065
+Time: 0.01
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.5
+M: 200
+BestPrimal: 17
+BestDual: 17.2065
+Time: 0.006
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.5
+M: 300
+BestPrimal: 17
+BestDual: 17.2065
+Time: 0.01
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.5
+M: 400
+BestPrimal: 17
+BestDual: 17.2065
+Time: 0.005
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.5
+M: 500
+BestPrimal: 17
+BestDual: 17.2065
+Time: 0.011
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.6
+M: 100
+BestPrimal: 17
+BestDual: 17.7705
+Time: 0.007
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.6
+M: 200
+BestPrimal: 17
+BestDual: 17.7705
+Time: 0.007
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.6
+M: 300
+BestPrimal: 17
+BestDual: 17.7705
+Time: 0.007
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.6
+M: 400
+BestPrimal: 17
+BestDual: 17.7705
+Time: 0.008
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.6
+M: 500
+BestPrimal: 17
+BestDual: 17.7705
+Time: 0.005
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.7
+M: 100
+BestPrimal: 17
+BestDual: 17.2527
+Time: 0.008
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.7
+M: 200
+BestPrimal: 17
+BestDual: 17.2527
+Time: 0.01
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.7
+M: 300
+BestPrimal: 17
+BestDual: 17.2527
+Time: 0.007
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.7
+M: 400
+BestPrimal: 17
+BestDual: 17.2527
+Time: 0.01
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.7
+M: 500
+BestPrimal: 17
+BestDual: 17.2527
+Time: 0.007
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.8
+M: 100
+BestPrimal: 17
+BestDual: 17.0532
+Time: 0.009
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.8
+M: 200
+BestPrimal: 17
+BestDual: 17.0532
+Time: 0.01
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.8
+M: 300
+BestPrimal: 17
+BestDual: 17.0532
+Time: 0.012
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.8
+M: 400
+BestPrimal: 17
+BestDual: 17.0532
+Time: 0.012
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.8
+M: 500
+BestPrimal: 17
+BestDual: 17.0532
+Time: 0.011
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.9
+M: 100
+BestPrimal: 17
+BestDual: 17.1342
+Time: 0.012
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.9
+M: 200
+BestPrimal: 17
+BestDual: 17.1342
+Time: 0.008
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.9
+M: 300
+BestPrimal: 17
+BestDual: 17.1342
+Time: 0.009
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.9
+M: 400
+BestPrimal: 17
+BestDual: 17.1342
+Time: 0.007
+stopCrit: E
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: dyna
+Alpha: 1.9
+M: 500
+BestPrimal: 17
+BestDual: 17.1342
+Time: 0.01
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 100
+BestPrimal: 1970
+BestDual: 1981.03
+Time: 25.578
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 200
+BestPrimal: 1970
+BestDual: 1981.03
+Time: 28.244
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 300
+BestPrimal: 1970
+BestDual: 1981.03
+Time: 30.581
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 400
+BestPrimal: 1970
+BestDual: 1981.03
+Time: 33.193
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 500
+BestPrimal: 1970
+BestDual: 1981.03
+Time: 35.141
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 100
+BestPrimal: 0
+BestDual: 2020
+Time: 2.476
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 200
+BestPrimal: 1980
+BestDual: 1981.19
+Time: 12.593
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 300
+BestPrimal: 1980
+BestDual: 1981.19
+Time: 15.157
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 400
+BestPrimal: 1980
+BestDual: 1981.19
+Time: 17.781
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 500
+BestPrimal: 1980
+BestDual: 1981.19
+Time: 20.567
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 100
+BestPrimal: 0
+BestDual: 2020
+Time: 2.421
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 200
+BestPrimal: 1980
+BestDual: 1981.73
+Time: 22.558
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 300
+BestPrimal: 1980
+BestDual: 1981.73
+Time: 25.401
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 400
+BestPrimal: 1980
+BestDual: 1981.73
+Time: 27.269
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 500
+BestPrimal: 1980
+BestDual: 1981.73
+Time: 38.815
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 100
+BestPrimal: 0
+BestDual: 2020
+Time: 2.428
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 200
+BestPrimal: 1980
+BestDual: 1981.06
+Time: 12.952
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 300
+BestPrimal: 1980
+BestDual: 1981.06
+Time: 15.172
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 400
+BestPrimal: 1980
+BestDual: 1981.06
+Time: 17.587
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 500
+BestPrimal: 1980
+BestDual: 1981.06
+Time: 19.9
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 100
+BestPrimal: 1980
+BestDual: 1981.07
+Time: 16.602
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 200
+BestPrimal: 1980
+BestDual: 1981.07
+Time: 18.755
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 300
+BestPrimal: 1980
+BestDual: 1981.07
+Time: 26.142
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 400
+BestPrimal: 1980
+BestDual: 1981.07
+Time: 27.833
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 500
+BestPrimal: 1980
+BestDual: 1981.07
+Time: 29.853
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 100
+BestPrimal: 0
+BestDual: 2020
+Time: 2.392
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 200
+BestPrimal: 1970
+BestDual: 1980.95
+Time: 26.29
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 300
+BestPrimal: 1970
+BestDual: 1980.95
+Time: 28.65
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 400
+BestPrimal: 1970
+BestDual: 1980.95
+Time: 31.136
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 500
+BestPrimal: 1970
+BestDual: 1980.95
+Time: 32.816
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 100
+BestPrimal: 0
+BestDual: 2020
+Time: 2.566
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 200
+BestPrimal: 1980
+BestDual: 1980.93
+Time: 8.717
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 300
+BestPrimal: 1980
+BestDual: 1980.93
+Time: 8.627
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 400
+BestPrimal: 1980
+BestDual: 1980.93
+Time: 8.727
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 500
+BestPrimal: 1980
+BestDual: 1980.93
+Time: 8.525
+stopCrit: E
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 100
+BestPrimal: 0
+BestDual: 2020
+Time: 2.332
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 200
+BestPrimal: 1980
+BestDual: 1981.23
+Time: 12.842
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 300
+BestPrimal: 1980
+BestDual: 1981.23
+Time: 15.111
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 400
+BestPrimal: 1980
+BestDual: 1981.23
+Time: 17.101
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 500
+BestPrimal: 1980
+BestDual: 1981.23
+Time: 19.616
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 100
+BestPrimal: 0
+BestDual: 2020
+Time: 2.593
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 200
+BestPrimal: 1980
+BestDual: 1981.1
+Time: 13.812
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 300
+BestPrimal: 1980
+BestDual: 1981.1
+Time: 15.981
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 400
+BestPrimal: 1980
+BestDual: 1981.1
+Time: 18.133
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 500
+BestPrimal: 1980
+BestDual: 1981.1
+Time: 20.401
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 100
+BestPrimal: 0
+BestDual: 2020
+Time: 2.446
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 200
+BestPrimal: 1970
+BestDual: 1980.89
+Time: 30.846
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 300
+BestPrimal: 1970
+BestDual: 1980.89
+Time: 33.365
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 400
+BestPrimal: 1970
+BestDual: 1980.89
+Time: 35.83
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 500
+BestPrimal: 1970
+BestDual: 1980.89
+Time: 38.317
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 100
+BestPrimal: 0
+BestDual: 2020
+Time: 2.34
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 200
+BestPrimal: 1980
+BestDual: 1981.12
+Time: 14.155
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 300
+BestPrimal: 1980
+BestDual: 1981.12
+Time: 16.272
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 400
+BestPrimal: 1980
+BestDual: 1981.12
+Time: 18.74
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 500
+BestPrimal: 1980
+BestDual: 1981.12
+Time: 21.17
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 100
+BestPrimal: 0
+BestDual: 2020
+Time: 2.468
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 200
+BestPrimal: 1970
+BestDual: 1980.9
+Time: 29.309
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 300
+BestPrimal: 1970
+BestDual: 1980.9
+Time: 31.778
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 400
+BestPrimal: 1970
+BestDual: 1980.9
+Time: 34.56
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 500
+BestPrimal: 1970
+BestDual: 1980.9
+Time: 35.917
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 100
+BestPrimal: 10390
+BestDual: 10390
+Time: 47.562
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 200
+BestPrimal: 10390
+BestDual: 10390
+Time: 94.562
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 300
+BestPrimal: 10390
+BestDual: 10390
+Time: 140.287
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 400
+BestPrimal: 10390
+BestDual: 10390
+Time: 186.634
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 500
+BestPrimal: 10390
+BestDual: 10390
+Time: 233.072
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 100
+BestPrimal: 10390
+BestDual: 10390
+Time: 47.267
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 200
+BestPrimal: 10390
+BestDual: 10390
+Time: 95.55
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 300
+BestPrimal: 10390
+BestDual: 10390
+Time: 142.891
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 400
+BestPrimal: 10390
+BestDual: 10390
+Time: 188.721
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 500
+BestPrimal: 10390
+BestDual: 10390
+Time: 233.332
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 100
+BestPrimal: 10390
+BestDual: 10390
+Time: 47.617
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 200
+BestPrimal: 10390
+BestDual: 10390
+Time: 94.639
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 300
+BestPrimal: 10390
+BestDual: 10390
+Time: 141.176
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 400
+BestPrimal: 10390
+BestDual: 10390
+Time: 188.628
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 500
+BestPrimal: 10390
+BestDual: 10390
+Time: 235.202
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 100
+BestPrimal: 10390
+BestDual: 10390
+Time: 47.898
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 200
+BestPrimal: 10390
+BestDual: 10390
+Time: 95.154
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 300
+BestPrimal: 10390
+BestDual: 10390
+Time: 143.73
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 400
+BestPrimal: 10390
+BestDual: 10390
+Time: 188.215
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 500
+BestPrimal: 10390
+BestDual: 10390
+Time: 241.03
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 100
+BestPrimal: 10390
+BestDual: 10390
+Time: 49.246
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 200
+BestPrimal: 10390
+BestDual: 10390
+Time: 99.053
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 300
+BestPrimal: 10390
+BestDual: 10390
+Time: 151.674
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 400
+BestPrimal: 10390
+BestDual: 10390
+Time: 200.147
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 500
+BestPrimal: 10390
+BestDual: 10390
+Time: 246.797
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 100
+BestPrimal: 10390
+BestDual: 10390
+Time: 51.377
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 200
+BestPrimal: 10390
+BestDual: 10390
+Time: 99.525
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 300
+BestPrimal: 10390
+BestDual: 10390
+Time: 148.761
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 400
+BestPrimal: 10390
+BestDual: 10390
+Time: 199.681
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 500
+BestPrimal: 10390
+BestDual: 10390
+Time: 249.768
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 100
+BestPrimal: 10390
+BestDual: 10390
+Time: 51.095
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 200
+BestPrimal: 10390
+BestDual: 10390
+Time: 100.342
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 300
+BestPrimal: 10390
+BestDual: 10390
+Time: 148.911
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 400
+BestPrimal: 10390
+BestDual: 10390
+Time: 198.901
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 500
+BestPrimal: 10390
+BestDual: 10390
+Time: 248.612
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 100
+BestPrimal: 10390
+BestDual: 10390
+Time: 50.465
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 200
+BestPrimal: 10390
+BestDual: 10390
+Time: 100.104
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 300
+BestPrimal: 10390
+BestDual: 10390
+Time: 152.036
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 400
+BestPrimal: 10390
+BestDual: 10390
+Time: 199.037
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 500
+BestPrimal: 10390
+BestDual: 10390
+Time: 248.87
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 100
+BestPrimal: 10390
+BestDual: 10390
+Time: 51.238
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 200
+BestPrimal: 10390
+BestDual: 10390
+Time: 99.768
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 300
+BestPrimal: 10390
+BestDual: 10390
+Time: 146.397
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 400
+BestPrimal: 10390
+BestDual: 10390
+Time: 191.088
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 500
+BestPrimal: 10390
+BestDual: 10390
+Time: 233.256
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 100
+BestPrimal: 10390
+BestDual: 10390
+Time: 47.463
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 200
+BestPrimal: 10390
+BestDual: 10390
+Time: 95.848
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 300
+BestPrimal: 10390
+BestDual: 10390
+Time: 143.372
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 400
+BestPrimal: 10390
+BestDual: 10390
+Time: 191.917
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 500
+BestPrimal: 10390
+BestDual: 10390
+Time: 246.05
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 100
+BestPrimal: 10390
+BestDual: 10390
+Time: 50.332
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 200
+BestPrimal: 10390
+BestDual: 10390
+Time: 98.139
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 300
+BestPrimal: 10390
+BestDual: 10390
+Time: 147.47
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 400
+BestPrimal: 10390
+BestDual: 10390
+Time: 197.367
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 500
+BestPrimal: 10390
+BestDual: 10390
+Time: 246.556
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 100
+BestPrimal: 10390
+BestDual: 10390
+Time: 49.051
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 200
+BestPrimal: 10390
+BestDual: 10390
+Time: 98.308
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 300
+BestPrimal: 10390
+BestDual: 10390
+Time: 151.153
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 400
+BestPrimal: 10390
+BestDual: 10390
+Time: 200.948
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 500
+BestPrimal: 10390
+BestDual: 10390
+Time: 250.379
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 100
+BestPrimal: 0
+BestDual: 1930
+Time: 1.209
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 200
+BestPrimal: 1880
+BestDual: 1889.08
+Time: 7.003
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 300
+BestPrimal: 1880
+BestDual: 1889
+Time: 17.326
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 400
+BestPrimal: 1880
+BestDual: 1889
+Time: 18.619
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 500
+BestPrimal: 1880
+BestDual: 1889
+Time: 19.491
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 100
+BestPrimal: 0
+BestDual: 1930
+Time: 1.174
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 200
+BestPrimal: 1880
+BestDual: 1889.13
+Time: 13.889
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 300
+BestPrimal: 1880
+BestDual: 1889.13
+Time: 14.9
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 400
+BestPrimal: 1880
+BestDual: 1889.13
+Time: 15.996
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 500
+BestPrimal: 1880
+BestDual: 1889.13
+Time: 17.842
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 100
+BestPrimal: 0
+BestDual: 1930
+Time: 1.141
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 200
+BestPrimal: 1870
+BestDual: 1888.91
+Time: 13.598
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 300
+BestPrimal: 1870
+BestDual: 1888.91
+Time: 14.73
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 400
+BestPrimal: 1870
+BestDual: 1888.91
+Time: 15.996
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 500
+BestPrimal: 1870
+BestDual: 1888.91
+Time: 17.11
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 100
+BestPrimal: 0
+BestDual: 1930
+Time: 1.154
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 200
+BestPrimal: 1880
+BestDual: 1888.9
+Time: 7.379
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 300
+BestPrimal: 1880
+BestDual: 1888.9
+Time: 8.558
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 400
+BestPrimal: 1880
+BestDual: 1888.9
+Time: 9.737
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 500
+BestPrimal: 1880
+BestDual: 1888.9
+Time: 11.098
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 100
+BestPrimal: 0
+BestDual: 1930
+Time: 1.169
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 200
+BestPrimal: 0
+BestDual: 1930
+Time: 2.351
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 300
+BestPrimal: 0
+BestDual: 1888.5
+Time: 18.046
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 400
+BestPrimal: 0
+BestDual: 1888.5
+Time: 19.216
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 500
+BestPrimal: 0
+BestDual: 1888.5
+Time: 20.155
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 100
+BestPrimal: 0
+BestDual: 1930
+Time: 1.208
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 200
+BestPrimal: 1880
+BestDual: 1888.68
+Time: 11.46
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 300
+BestPrimal: 1880
+BestDual: 1888.68
+Time: 12.575
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 400
+BestPrimal: 1880
+BestDual: 1888.68
+Time: 13.685
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 500
+BestPrimal: 1880
+BestDual: 1888.68
+Time: 14.718
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 100
+BestPrimal: 0
+BestDual: 1930
+Time: 1.18
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 200
+BestPrimal: 1880
+BestDual: 1889.02
+Time: 15.915
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 300
+BestPrimal: 1880
+BestDual: 1889.02
+Time: 16.949
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 400
+BestPrimal: 1880
+BestDual: 1889.02
+Time: 18.121
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 500
+BestPrimal: 1880
+BestDual: 1889.02
+Time: 19.271
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 100
+BestPrimal: 0
+BestDual: 1930
+Time: 1.186
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 200
+BestPrimal: 1870
+BestDual: 1888.73
+Time: 15.189
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 300
+BestPrimal: 1870
+BestDual: 1888.73
+Time: 16.423
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 400
+BestPrimal: 1870
+BestDual: 1888.73
+Time: 17.356
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 500
+BestPrimal: 1870
+BestDual: 1888.73
+Time: 18.603
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 100
+BestPrimal: 1790
+BestDual: 1888.5
+Time: 11.337
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 200
+BestPrimal: 1790
+BestDual: 1888.5
+Time: 12.474
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 300
+BestPrimal: 1790
+BestDual: 1888.5
+Time: 13.353
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 400
+BestPrimal: 1790
+BestDual: 1888.5
+Time: 14.629
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 500
+BestPrimal: 1790
+BestDual: 1888.5
+Time: 16.137
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 100
+BestPrimal: 0
+BestDual: 1930
+Time: 1.15
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 200
+BestPrimal: 0
+BestDual: 1930
+Time: 2.32
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 300
+BestPrimal: 1870
+BestDual: 1888.96
+Time: 16.033
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 400
+BestPrimal: 1870
+BestDual: 1888.96
+Time: 16.849
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 500
+BestPrimal: 1870
+BestDual: 1888.96
+Time: 18.266
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 100
+BestPrimal: 1779
+BestDual: 1888.5
+Time: 11.638
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 200
+BestPrimal: 1779
+BestDual: 1888.5
+Time: 12.169
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 300
+BestPrimal: 1779
+BestDual: 1888.5
+Time: 13.681
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 400
+BestPrimal: 1779
+BestDual: 1888.5
+Time: 15.032
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 500
+BestPrimal: 1779
+BestDual: 1888.5
+Time: 16.16
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 100
+BestPrimal: 0
+BestDual: 1930
+Time: 1.162
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 200
+BestPrimal: 1880
+BestDual: 1889.12
+Time: 15.18
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 300
+BestPrimal: 1880
+BestDual: 1889.12
+Time: 16.23
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 400
+BestPrimal: 1880
+BestDual: 1889.12
+Time: 17.299
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 500
+BestPrimal: 1880
+BestDual: 1889.12
+Time: 18.33
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 100
+BestPrimal: 0
+BestDual: 10350
+Time: 4.334
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 200
+BestPrimal: 0
+BestDual: 10350
+Time: 8.459
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 300
+BestPrimal: 0
+BestDual: 10350
+Time: 12.444
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 400
+BestPrimal: 0
+BestDual: 10350
+Time: 16.81
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 500
+BestPrimal: 10310
+BestDual: 10318.2
+Time: 71.246
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 100
+BestPrimal: 0
+BestDual: 10350
+Time: 4.38
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 200
+BestPrimal: 0
+BestDual: 10350
+Time: 8.415
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 300
+BestPrimal: 0
+BestDual: 10350
+Time: 12.687
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 400
+BestPrimal: 0
+BestDual: 10350
+Time: 16.585
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 500
+BestPrimal: 10310
+BestDual: 10318.3
+Time: 48.392
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 100
+BestPrimal: 0
+BestDual: 10350
+Time: 4.179
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 200
+BestPrimal: 0
+BestDual: 10350
+Time: 8.382
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 300
+BestPrimal: 0
+BestDual: 10350
+Time: 12.508
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 400
+BestPrimal: 0
+BestDual: 10350
+Time: 16.862
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 500
+BestPrimal: 10310
+BestDual: 10318.5
+Time: 49.357
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 100
+BestPrimal: 0
+BestDual: 10350
+Time: 4.182
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 200
+BestPrimal: 0
+BestDual: 10350
+Time: 8.431
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 300
+BestPrimal: 0
+BestDual: 10350
+Time: 12.634
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 400
+BestPrimal: 0
+BestDual: 10350
+Time: 16.858
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 500
+BestPrimal: 10310
+BestDual: 10318.2
+Time: 68.309
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 100
+BestPrimal: 0
+BestDual: 10350
+Time: 4.391
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 200
+BestPrimal: 0
+BestDual: 10350
+Time: 8.316
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 300
+BestPrimal: 0
+BestDual: 10350
+Time: 12.512
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 400
+BestPrimal: 0
+BestDual: 10350
+Time: 16.568
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 500
+BestPrimal: 10310
+BestDual: 10318.9
+Time: 78.482
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 100
+BestPrimal: 0
+BestDual: 10350
+Time: 4.277
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 200
+BestPrimal: 0
+BestDual: 10350
+Time: 8.537
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 300
+BestPrimal: 0
+BestDual: 10350
+Time: 12.383
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 400
+BestPrimal: 0
+BestDual: 10350
+Time: 16.761
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 500
+BestPrimal: 10310
+BestDual: 10318.3
+Time: 72.509
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 100
+BestPrimal: 0
+BestDual: 10350
+Time: 4.276
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 200
+BestPrimal: 0
+BestDual: 10350
+Time: 8.36
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 300
+BestPrimal: 0
+BestDual: 10350
+Time: 12.568
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 400
+BestPrimal: 0
+BestDual: 10350
+Time: 16.445
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 500
+BestPrimal: 10310
+BestDual: 10318.4
+Time: 76.443
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 100
+BestPrimal: 0
+BestDual: 10350
+Time: 4.262
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 200
+BestPrimal: 0
+BestDual: 10350
+Time: 8.308
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 300
+BestPrimal: 0
+BestDual: 10350
+Time: 12.47
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 400
+BestPrimal: 0
+BestDual: 10350
+Time: 16.621
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 500
+BestPrimal: 10310
+BestDual: 10318.1
+Time: 66.784
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 100
+BestPrimal: 0
+BestDual: 10350
+Time: 4.151
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 200
+BestPrimal: 0
+BestDual: 10350
+Time: 8.386
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 300
+BestPrimal: 0
+BestDual: 10350
+Time: 12.437
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 400
+BestPrimal: 0
+BestDual: 10350
+Time: 16.526
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 500
+BestPrimal: 10310
+BestDual: 10318.9
+Time: 72.745
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 100
+BestPrimal: 0
+BestDual: 10350
+Time: 4.238
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 200
+BestPrimal: 0
+BestDual: 10350
+Time: 8.38
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 300
+BestPrimal: 0
+BestDual: 10350
+Time: 12.65
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 400
+BestPrimal: 0
+BestDual: 10350
+Time: 17.012
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 500
+BestPrimal: 10310
+BestDual: 10318.1
+Time: 56.742
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 100
+BestPrimal: 0
+BestDual: 10350
+Time: 4.354
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 200
+BestPrimal: 0
+BestDual: 10350
+Time: 8.385
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 300
+BestPrimal: 0
+BestDual: 10350
+Time: 12.678
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 400
+BestPrimal: 0
+BestDual: 10350
+Time: 16.572
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 500
+BestPrimal: 10310
+BestDual: 10318.2
+Time: 69.745
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 100
+BestPrimal: 0
+BestDual: 10350
+Time: 4.281
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 200
+BestPrimal: 0
+BestDual: 10350
+Time: 8.338
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 300
+BestPrimal: 0
+BestDual: 10350
+Time: 12.562
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 400
+BestPrimal: 0
+BestDual: 10350
+Time: 16.638
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 500
+BestPrimal: 10310
+BestDual: 10318.9
+Time: 83.285
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 100
+BestPrimal: 2060
+BestDual: 2066.75
+Time: 15.453
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 200
+BestPrimal: 2060
+BestDual: 2066.56
+Time: 54.033
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 300
+BestPrimal: 2060
+BestDual: 2066.56
+Time: 59.353
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 400
+BestPrimal: 2060
+BestDual: 2066.56
+Time: 64.497
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 500
+BestPrimal: 2060
+BestDual: 2066.56
+Time: 69.736
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 100
+BestPrimal: 2060
+BestDual: 2066.38
+Time: 15.598
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 200
+BestPrimal: 2060
+BestDual: 2066.38
+Time: 20.421
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 300
+BestPrimal: 2060
+BestDual: 2066.38
+Time: 25.65
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 400
+BestPrimal: 2060
+BestDual: 2066.38
+Time: 31.784
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 500
+BestPrimal: 2060
+BestDual: 2066.38
+Time: 37.246
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 100
+BestPrimal: 2060
+BestDual: 2066.92
+Time: 18.329
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 200
+BestPrimal: 2060
+BestDual: 2066.92
+Time: 24.348
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 300
+BestPrimal: 2060
+BestDual: 2066.92
+Time: 27.708
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 400
+BestPrimal: 2060
+BestDual: 2066.92
+Time: 32.544
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 500
+BestPrimal: 2060
+BestDual: 2066.92
+Time: 38.998
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 100
+BestPrimal: 2060
+BestDual: 2066.43
+Time: 42.324
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 200
+BestPrimal: 2060
+BestDual: 2066.43
+Time: 52.93
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 300
+BestPrimal: 2060
+BestDual: 2066.43
+Time: 56.965
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 400
+BestPrimal: 2060
+BestDual: 2066.43
+Time: 63.384
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 500
+BestPrimal: 2060
+BestDual: 2066.43
+Time: 69.516
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 100
+BestPrimal: 2060
+BestDual: 2066.39
+Time: 41.016
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 200
+BestPrimal: 2060
+BestDual: 2066.39
+Time: 51.575
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 300
+BestPrimal: 2060
+BestDual: 2066.39
+Time: 56.132
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 400
+BestPrimal: 2060
+BestDual: 2066.39
+Time: 64.053
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 500
+BestPrimal: 2060
+BestDual: 2066.39
+Time: 70.121
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 100
+BestPrimal: 0
+BestDual: 2100
+Time: 5.421
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 200
+BestPrimal: 2060
+BestDual: 2066.52
+Time: 56.633
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 300
+BestPrimal: 2060
+BestDual: 2066.52
+Time: 73.283
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 400
+BestPrimal: 2060
+BestDual: 2066.52
+Time: 77.878
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 500
+BestPrimal: 2060
+BestDual: 2066.52
+Time: 84.764
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 100
+BestPrimal: 2060
+BestDual: 2066.55
+Time: 17.138
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 200
+BestPrimal: 2060
+BestDual: 2066.55
+Time: 22.031
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 300
+BestPrimal: 2060
+BestDual: 2066.55
+Time: 27.626
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 400
+BestPrimal: 2060
+BestDual: 2066.55
+Time: 32.466
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 500
+BestPrimal: 2060
+BestDual: 2066.54
+Time: 80.689
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 100
+BestPrimal: 0
+BestDual: 2100
+Time: 5.2
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 200
+BestPrimal: 2060
+BestDual: 2066.25
+Time: 46.903
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 300
+BestPrimal: 2060
+BestDual: 2066.25
+Time: 52.732
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 400
+BestPrimal: 2060
+BestDual: 2066.25
+Time: 59.165
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 500
+BestPrimal: 2060
+BestDual: 2066.24
+Time: 84.465
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 100
+BestPrimal: 0
+BestDual: 2100
+Time: 5.107
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 200
+BestPrimal: 2060
+BestDual: 2066.36
+Time: 55.389
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 300
+BestPrimal: 2060
+BestDual: 2066.36
+Time: 62.548
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 400
+BestPrimal: 2060
+BestDual: 2066.36
+Time: 67.705
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 500
+BestPrimal: 2060
+BestDual: 2066.36
+Time: 72.345
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 100
+BestPrimal: 0
+BestDual: 2100
+Time: 5.208
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 200
+BestPrimal: 2060
+BestDual: 2066.4
+Time: 25.229
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 300
+BestPrimal: 2060
+BestDual: 2066.4
+Time: 30.181
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 400
+BestPrimal: 2060
+BestDual: 2066.4
+Time: 35.418
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 500
+BestPrimal: 2060
+BestDual: 2066.4
+Time: 39.473
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 100
+BestPrimal: 0
+BestDual: 2100
+Time: 4.985
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 200
+BestPrimal: 2060
+BestDual: 2066.8
+Time: 55.172
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 300
+BestPrimal: 2060
+BestDual: 2066.8
+Time: 61.638
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 400
+BestPrimal: 2060
+BestDual: 2066.8
+Time: 66.473
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 500
+BestPrimal: 2060
+BestDual: 2066.8
+Time: 72.216
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 100
+BestPrimal: 0
+BestDual: 2100
+Time: 5.583
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 200
+BestPrimal: 2060
+BestDual: 2066.69
+Time: 57.123
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 300
+BestPrimal: 2060
+BestDual: 2066.69
+Time: 61.837
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 400
+BestPrimal: 2060
+BestDual: 2066.68
+Time: 85.741
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 500
+BestPrimal: 2060
+BestDual: 2066.68
+Time: 90.484
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 100
+BestPrimal: 0
+BestDual: 10380
+Time: 9.889
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 200
+BestPrimal: 0
+BestDual: 10380
+Time: 19.308
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 300
+BestPrimal: 0
+BestDual: 10380
+Time: 29.314
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 400
+BestPrimal: 0
+BestDual: 10380
+Time: 38.358
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 500
+BestPrimal: 10340
+BestDual: 10353.4
+Time: 108.155
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 100
+BestPrimal: 0
+BestDual: 10380
+Time: 10.622
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 200
+BestPrimal: 0
+BestDual: 10380
+Time: 20.213
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 300
+BestPrimal: 0
+BestDual: 10380
+Time: 28.807
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 400
+BestPrimal: 10350
+BestDual: 10352.4
+Time: 122.05
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 500
+BestPrimal: 10350
+BestDual: 10352.4
+Time: 130.775
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 100
+BestPrimal: 0
+BestDual: 10380
+Time: 9.63
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 200
+BestPrimal: 0
+BestDual: 10380
+Time: 19.488
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 300
+BestPrimal: 0
+BestDual: 10380
+Time: 28.856
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 400
+BestPrimal: 0
+BestDual: 10380
+Time: 38.636
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 500
+BestPrimal: 10350
+BestDual: 10352.6
+Time: 119.309
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 100
+BestPrimal: 0
+BestDual: 10380
+Time: 10.049
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 200
+BestPrimal: 0
+BestDual: 10380
+Time: 19.338
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 300
+BestPrimal: 0
+BestDual: 10380
+Time: 29.084
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 400
+BestPrimal: 0
+BestDual: 10380
+Time: 38.425
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 500
+BestPrimal: 10340
+BestDual: 10353.2
+Time: 111.761
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 100
+BestPrimal: 0
+BestDual: 10380
+Time: 9.756
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 200
+BestPrimal: 0
+BestDual: 10380
+Time: 19.204
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 300
+BestPrimal: 0
+BestDual: 10380
+Time: 29.888
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 400
+BestPrimal: 0
+BestDual: 10380
+Time: 39.834
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 500
+BestPrimal: 10350
+BestDual: 10352.4
+Time: 136.31
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 100
+BestPrimal: 0
+BestDual: 10380
+Time: 9.801
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 200
+BestPrimal: 0
+BestDual: 10380
+Time: 19.306
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 300
+BestPrimal: 0
+BestDual: 10380
+Time: 29.018
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 400
+BestPrimal: 0
+BestDual: 10380
+Time: 38.511
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 500
+BestPrimal: 10340
+BestDual: 10354.1
+Time: 104.917
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 100
+BestPrimal: 0
+BestDual: 10380
+Time: 9.978
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 200
+BestPrimal: 0
+BestDual: 10380
+Time: 20.074
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 300
+BestPrimal: 0
+BestDual: 10380
+Time: 30.35
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 400
+BestPrimal: 0
+BestDual: 10380
+Time: 38.294
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 500
+BestPrimal: 10350
+BestDual: 10352.8
+Time: 151.886
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 100
+BestPrimal: 0
+BestDual: 10380
+Time: 9.956
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 200
+BestPrimal: 0
+BestDual: 10380
+Time: 19.419
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 300
+BestPrimal: 0
+BestDual: 10380
+Time: 28.843
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 400
+BestPrimal: 0
+BestDual: 10380
+Time: 39.579
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 500
+BestPrimal: 10350
+BestDual: 10352.4
+Time: 134.923
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 100
+BestPrimal: 0
+BestDual: 10380
+Time: 9.54
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 200
+BestPrimal: 0
+BestDual: 10380
+Time: 19.577
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 300
+BestPrimal: 0
+BestDual: 10380
+Time: 29.407
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 400
+BestPrimal: 0
+BestDual: 10380
+Time: 38.147
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 500
+BestPrimal: 10340
+BestDual: 10353.4
+Time: 115.293
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 100
+BestPrimal: 0
+BestDual: 10380
+Time: 10.003
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 200
+BestPrimal: 0
+BestDual: 10380
+Time: 19.474
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 300
+BestPrimal: 0
+BestDual: 10380
+Time: 28.537
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 400
+BestPrimal: 0
+BestDual: 10380
+Time: 38.864
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 500
+BestPrimal: 10350
+BestDual: 10352.6
+Time: 155.223
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 100
+BestPrimal: 0
+BestDual: 10380
+Time: 9.604
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 200
+BestPrimal: 0
+BestDual: 10380
+Time: 19.345
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 300
+BestPrimal: 0
+BestDual: 10380
+Time: 29.451
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 400
+BestPrimal: 0
+BestDual: 10380
+Time: 37.508
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 500
+BestPrimal: 10340
+BestDual: 10353.2
+Time: 108.53
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 100
+BestPrimal: 0
+BestDual: 10380
+Time: 9.505
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 200
+BestPrimal: 0
+BestDual: 10380
+Time: 18.2
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 300
+BestPrimal: 0
+BestDual: 10380
+Time: 28.403
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 400
+BestPrimal: 0
+BestDual: 10380
+Time: 37.699
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 500
+BestPrimal: 10350
+BestDual: 10352.5
+Time: 129.324
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 22.322
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 44.532
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 66.317
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 88.777
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 109.525
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 22.359
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 44.295
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 66.424
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 88.714
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 111.243
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 22.389
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 43.901
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 66.136
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 88.117
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 109.508
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 23.022
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 44.465
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 67.032
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 88.595
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 111.169
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 22.436
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 44.267
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 66.407
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 88.474
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 108.61
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 22.344
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 44.332
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 65.939
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 88.736
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 110.886
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 22.595
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 44.86
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 66.721
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 89.358
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 110.743
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 22.324
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 44.506
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 70.248
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 90.232
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 110.284
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 22.819
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 45.02
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 67.007
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 89.833
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 114.684
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 23.591
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 46.648
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 71.478
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 91.91
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 114.719
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 23.585
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 46.121
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 69.22
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 92.143
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 115.587
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 23.311
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 45.762
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 69.681
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 92.857
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 114.283
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 100
+BestPrimal: 0
+BestDual: 1930
+Time: 1.164
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 200
+BestPrimal: 1850
+BestDual: 1861.01
+Time: 13.376
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 300
+BestPrimal: 1850
+BestDual: 1861.01
+Time: 14.561
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 400
+BestPrimal: 1850
+BestDual: 1861.01
+Time: 15.521
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 500
+BestPrimal: 1850
+BestDual: 1861.01
+Time: 16.916
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 100
+BestPrimal: 0
+BestDual: 1930
+Time: 1.164
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 200
+BestPrimal: 1850
+BestDual: 1861.03
+Time: 14.334
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 300
+BestPrimal: 1850
+BestDual: 1861.03
+Time: 15.369
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 400
+BestPrimal: 1850
+BestDual: 1861.03
+Time: 16.608
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 500
+BestPrimal: 1850
+BestDual: 1861.03
+Time: 17.7
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 100
+BestPrimal: 0
+BestDual: 1930
+Time: 1.167
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 200
+BestPrimal: 1850
+BestDual: 1861.09
+Time: 13.368
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 300
+BestPrimal: 1850
+BestDual: 1861.09
+Time: 14.659
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 400
+BestPrimal: 1850
+BestDual: 1861.09
+Time: 15.734
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 500
+BestPrimal: 1850
+BestDual: 1861.09
+Time: 16.895
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 100
+BestPrimal: 0
+BestDual: 1930
+Time: 1.162
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 200
+BestPrimal: 1850
+BestDual: 1860.84
+Time: 12.808
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 300
+BestPrimal: 1850
+BestDual: 1860.84
+Time: 13.964
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 400
+BestPrimal: 1850
+BestDual: 1860.84
+Time: 15.221
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 500
+BestPrimal: 1850
+BestDual: 1860.84
+Time: 16.362
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 100
+BestPrimal: 0
+BestDual: 1930
+Time: 1.16
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 200
+BestPrimal: 1850
+BestDual: 1861.78
+Time: 14.711
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 300
+BestPrimal: 1850
+BestDual: 1861.78
+Time: 15.782
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 400
+BestPrimal: 1850
+BestDual: 1861.78
+Time: 16.905
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 500
+BestPrimal: 1850
+BestDual: 1861.78
+Time: 18.316
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 100
+BestPrimal: 0
+BestDual: 1930
+Time: 1.154
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 200
+BestPrimal: 1850
+BestDual: 1860.93
+Time: 13.867
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 300
+BestPrimal: 1850
+BestDual: 1860.93
+Time: 14.96
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 400
+BestPrimal: 1850
+BestDual: 1860.93
+Time: 16.038
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 500
+BestPrimal: 1850
+BestDual: 1860.93
+Time: 17.299
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 100
+BestPrimal: 0
+BestDual: 1930
+Time: 1.147
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 200
+BestPrimal: 1850
+BestDual: 1861.08
+Time: 13.457
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 300
+BestPrimal: 1850
+BestDual: 1861.08
+Time: 14.564
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 400
+BestPrimal: 1850
+BestDual: 1861.08
+Time: 19.783
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 500
+BestPrimal: 1850
+BestDual: 1861.08
+Time: 20.758
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 100
+BestPrimal: 0
+BestDual: 1930
+Time: 1.198
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 200
+BestPrimal: 1850
+BestDual: 1860.89
+Time: 15.259
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 300
+BestPrimal: 1850
+BestDual: 1860.89
+Time: 16.368
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 400
+BestPrimal: 1850
+BestDual: 1860.89
+Time: 17.362
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 500
+BestPrimal: 1850
+BestDual: 1860.89
+Time: 18.554
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 100
+BestPrimal: 0
+BestDual: 1930
+Time: 1.14
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 200
+BestPrimal: 1850
+BestDual: 1861.08
+Time: 15.725
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 300
+BestPrimal: 1850
+BestDual: 1861.08
+Time: 16.947
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 400
+BestPrimal: 1850
+BestDual: 1861.08
+Time: 18.152
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 500
+BestPrimal: 1850
+BestDual: 1861.08
+Time: 19.224
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 100
+BestPrimal: 0
+BestDual: 1930
+Time: 1.161
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 200
+BestPrimal: 0
+BestDual: 1930
+Time: 2.276
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 300
+BestPrimal: 1850
+BestDual: 1860.96
+Time: 17.549
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 400
+BestPrimal: 1850
+BestDual: 1860.96
+Time: 18.776
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 500
+BestPrimal: 1850
+BestDual: 1860.96
+Time: 19.762
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 100
+BestPrimal: 0
+BestDual: 1930
+Time: 1.188
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 200
+BestPrimal: 1850
+BestDual: 1860.89
+Time: 11.641
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 300
+BestPrimal: 1850
+BestDual: 1860.89
+Time: 12.838
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 400
+BestPrimal: 1850
+BestDual: 1860.89
+Time: 14.036
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 500
+BestPrimal: 1850
+BestDual: 1860.89
+Time: 15.075
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 100
+BestPrimal: 0
+BestDual: 1930
+Time: 1.129
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 200
+BestPrimal: 0
+BestDual: 1930
+Time: 2.29
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 300
+BestPrimal: 1850
+BestDual: 1861.06
+Time: 14.768
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 400
+BestPrimal: 1850
+BestDual: 1861.06
+Time: 16.001
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 500
+BestPrimal: 1850
+BestDual: 1861.06
+Time: 16.992
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 23.199
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 45.985
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 68.235
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 92.76
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 115.93
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 23.321
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 46.542
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 69.488
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 91.62
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 116.068
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 23.732
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 46.167
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 69.946
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 93.275
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 115.935
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 23.684
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 47.849
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 69.549
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 92.56
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 114.637
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 23.078
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 46.381
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 69.375
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 91.513
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 115.813
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 23.658
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 46.674
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 69.539
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 91.448
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 114.885
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 23.248
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 46.386
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 70.449
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 92.773
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 115.291
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 23.336
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 46.384
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 69.194
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 92.173
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 115.062
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 23.34
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 47.236
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 68.423
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 88.477
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 111.197
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 22.469
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 44.931
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 66.719
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 88.834
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 110.866
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 22.53
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 46.162
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 68.247
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 91.974
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 116.298
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 24.368
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 47.245
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 69.954
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 92.588
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 115.472
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 100
+BestPrimal: 2070
+BestDual: 2077.8
+Time: 17.492
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 200
+BestPrimal: 2070
+BestDual: 2077.8
+Time: 22.506
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 300
+BestPrimal: 2070
+BestDual: 2077.8
+Time: 27.471
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 400
+BestPrimal: 2070
+BestDual: 2077.8
+Time: 32.608
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.8
+M: 500
+BestPrimal: 2070
+BestDual: 2077.8
+Time: 36.597
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 100
+BestPrimal: 2070
+BestDual: 2077.8
+Time: 41.509
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 200
+BestPrimal: 2070
+BestDual: 2077.8
+Time: 53.285
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 300
+BestPrimal: 2070
+BestDual: 2077.8
+Time: 64.691
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 400
+BestPrimal: 2070
+BestDual: 2077.8
+Time: 67.698
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 0.9
+M: 500
+BestPrimal: 2070
+BestDual: 2077.8
+Time: 67.927
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 100
+BestPrimal: 2070
+BestDual: 2077.67
+Time: 47.14
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 200
+BestPrimal: 2070
+BestDual: 2077.67
+Time: 52.098
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 300
+BestPrimal: 2070
+BestDual: 2077.67
+Time: 56.719
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 400
+BestPrimal: 2070
+BestDual: 2077.67
+Time: 62.432
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1
+M: 500
+BestPrimal: 2070
+BestDual: 2077.67
+Time: 67.243
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 100
+BestPrimal: 2070
+BestDual: 2077.88
+Time: 17.883
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 200
+BestPrimal: 2070
+BestDual: 2077.88
+Time: 23.257
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 300
+BestPrimal: 2070
+BestDual: 2077.88
+Time: 29.08
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 400
+BestPrimal: 2070
+BestDual: 2077.88
+Time: 38.03
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.1
+M: 500
+BestPrimal: 2070
+BestDual: 2077.88
+Time: 38.986
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 100
+BestPrimal: 2070
+BestDual: 2077.83
+Time: 19.245
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 200
+BestPrimal: 2070
+BestDual: 2077.83
+Time: 24.327
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 300
+BestPrimal: 2070
+BestDual: 2077.83
+Time: 29.172
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 400
+BestPrimal: 2070
+BestDual: 2077.83
+Time: 34.431
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.2
+M: 500
+BestPrimal: 2070
+BestDual: 2077.83
+Time: 39.693
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 100
+BestPrimal: 0
+BestDual: 2100
+Time: 5.092
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 200
+BestPrimal: 2070
+BestDual: 2077.95
+Time: 61.733
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 300
+BestPrimal: 2070
+BestDual: 2077.95
+Time: 65.33
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 400
+BestPrimal: 2070
+BestDual: 2077.95
+Time: 71.56
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.3
+M: 500
+BestPrimal: 2070
+BestDual: 2077.95
+Time: 75.261
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 100
+BestPrimal: 0
+BestDual: 2100
+Time: 5.222
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 200
+BestPrimal: 2070
+BestDual: 2077.58
+Time: 51.345
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 300
+BestPrimal: 2070
+BestDual: 2077.58
+Time: 56.038
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 400
+BestPrimal: 2070
+BestDual: 2077.58
+Time: 61.244
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.4
+M: 500
+BestPrimal: 2070
+BestDual: 2077.58
+Time: 66.702
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 100
+BestPrimal: 0
+BestDual: 2100
+Time: 5.208
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 200
+BestPrimal: 2070
+BestDual: 2077.74
+Time: 24.604
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 300
+BestPrimal: 2070
+BestDual: 2077.74
+Time: 29.609
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 400
+BestPrimal: 2070
+BestDual: 2077.74
+Time: 34.726
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.5
+M: 500
+BestPrimal: 2070
+BestDual: 2077.74
+Time: 39.902
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 100
+BestPrimal: 2070
+BestDual: 2077.56
+Time: 43.017
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 200
+BestPrimal: 2070
+BestDual: 2077.56
+Time: 48.287
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 300
+BestPrimal: 2070
+BestDual: 2077.56
+Time: 53.064
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 400
+BestPrimal: 2070
+BestDual: 2077.56
+Time: 58.113
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.6
+M: 500
+BestPrimal: 2070
+BestDual: 2077.56
+Time: 62.619
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 100
+BestPrimal: 0
+BestDual: 2100
+Time: 5.142
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 200
+BestPrimal: 2070
+BestDual: 2078.84
+Time: 23.065
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 300
+BestPrimal: 2070
+BestDual: 2078.69
+Time: 66.099
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 400
+BestPrimal: 2070
+BestDual: 2078.69
+Time: 68.517
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.7
+M: 500
+BestPrimal: 2070
+BestDual: 2078.69
+Time: 72.093
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 100
+BestPrimal: 0
+BestDual: 2100
+Time: 4.978
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 200
+BestPrimal: 2070
+BestDual: 2077.42
+Time: 53.776
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 300
+BestPrimal: 2070
+BestDual: 2077.42
+Time: 56.158
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 400
+BestPrimal: 2070
+BestDual: 2077.42
+Time: 61.213
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.8
+M: 500
+BestPrimal: 2070
+BestDual: 2077.42
+Time: 65.973
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 100
+BestPrimal: 2070
+BestDual: 2077.9
+Time: 44.093
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 200
+BestPrimal: 2070
+BestDual: 2077.9
+Time: 53.62
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 300
+BestPrimal: 2070
+BestDual: 2077.9
+Time: 59.153
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 400
+BestPrimal: 2070
+BestDual: 2077.9
+Time: 64.652
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: dyna
+Alpha: 1.9
+M: 500
+BestPrimal: 2070
+BestDual: 2077.9
+Time: 69.895
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 50.161
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 99.277
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 148.515
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 195.563
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.8
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 240.195
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 48.243
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 95.658
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 145.337
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 197.73
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 0.9
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 247.555
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 49.355
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 100.322
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 148.502
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 196.086
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 247.52
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 49.478
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 99.199
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 148.616
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 195.909
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.1
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 243.661
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 49.4
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 98.35
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 147.562
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 197.777
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.2
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 246.35
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 50.001
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 99.643
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 149.169
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 198.245
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.3
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 247.041
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 49.998
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 99.806
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 148.917
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 195.268
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.4
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 246.083
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 49.354
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 96.276
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 145.017
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 199.543
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.5
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 247.311
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 49.633
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 99.056
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 146.693
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 196.239
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.6
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 246.896
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 49.576
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 100.398
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 146.383
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 187.983
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.7
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 238.475
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 50.22
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 98.768
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 147.938
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 198.192
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.8
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 248.251
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 100
+BestPrimal: 0
+BestDual: 10390
+Time: 50.383
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 200
+BestPrimal: 0
+BestDual: 10390
+Time: 100.014
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 300
+BestPrimal: 0
+BestDual: 10390
+Time: 151.308
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 400
+BestPrimal: 0
+BestDual: 10390
+Time: 197.884
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: dyna
+Alpha: 1.9
+M: 500
+BestPrimal: 0
+BestDual: 10390
+Time: 248.151
+stopCrit: I
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.5.txt
+Algo: Guro
+bestDual: 1953.75
+time: 0.00351405
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.2.txt
+Algo: Guro
+bestDual: 10376.2
+time: 0.00088191
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.5.txt
+Algo: Guro
+bestDual: 7543
+time: 0.00151896
+_____________________________________________________
+
+Instance: toy_instance.txt
+Algo: Guro
+bestDual: 17
+time: 0.00037694
+_____________________________________________________
+
+Instance: C10_BPPC_2_0_1_0.2.txt
+Algo: Guro
+bestDual: 1981.16
+time: 0.00120115
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.2.txt
+Algo: Guro
+bestDual: 10397.7
+time: 0.00212812
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.2.txt
+Algo: Guro
+bestDual: 1889.18
+time: 0.00089407
+_____________________________________________________
+
+Instance: C10_BPPC_5_0_1_0.2.txt
+Algo: Guro
+bestDual: 10318.9
+time: 0.00152493
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.5.txt
+Algo: Guro
+bestDual: 2066.57
+time: 0.00249887
+_____________________________________________________
+
+Instance: C10_BPPC_6_0_1_0.5.txt
+Algo: Guro
+bestDual: 10352.8
+time: 0.00168586
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.2.txt
+Algo: Guro
+bestDual: 10393.2
+time: 0.00176692
+_____________________________________________________
+
+Instance: C10_BPPC_1_0_1_0.5.txt
+Algo: Guro
+bestDual: 1861.16
+time: 0.000935078
+_____________________________________________________
+
+Instance: C10_BPPC_7_0_1_0.5.txt
+Algo: Guro
+bestDual: 10390.4
+time: 0.00165987
+_____________________________________________________
+
+Instance: C10_BPPC_3_0_1_0.2.txt
+Algo: Guro
+bestDual: 2077.81
+time: 0.00178599
+_____________________________________________________
+
+Instance: C10_BPPC_8_0_1_0.5.txt
+Algo: Guro
+bestDual: 10397
+time: 0.00185204
+_____________________________________________________
+
