@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.12)  12 APR 2025 03:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.12)  25 APR 2025 15:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1791,7 +1791,7 @@ Package epstopdf Info: Source file: <logo.eps>
 o.pdf logo.eps>
 (epstopdf)             \includegraphics on input line 85.
 Package epstopdf Info: Output file is already uptodate.
-<logo-eps-converted-to.pdf, id=6, 995.72pt x 399.4925pt>
+<logo-eps-converted-to.pdf, id=38, 995.72pt x 399.4925pt>
 File: logo-eps-converted-to.pdf Graphic file (type pdf)
 <use logo-eps-converted-to.pdf>
 Package pdftex.def Info: logo-eps-converted-to.pdf  used on input line 85.
@@ -1831,47 +1831,143 @@ onverted-to.pdf>] (rapportLagrange.toc)
 [2
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--133
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--133
+
+ []
+
+
 
 [3
 
-] (rapportLagrange.aux)
+] (DynaVSGurobi.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+ []
+
+<diffDynaGuro.png, id=89, 1000.2168pt x 566.5968pt>
+File: diffDynaGuro.png Graphic file (type png)
+<use diffDynaGuro.png>
+Package pdftex.def Info: diffDynaGuro.png  used on input line 165.
+(pdftex.def)             Requested size: 483.69687pt x 274.00372pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 165--166
+[][] 
+ []
+
+
+
+[4] (resultsDyna.tex
+Overfull \hbox (21.76184pt too wide) in paragraph at lines 4--25
+ [][] 
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 176--178
+
+ []
+
+
+
+[5 <./diffDynaGuro.png>]
+<bestAlpha.png, id=109, 711.1368pt x 349.7868pt>
+File: bestAlpha.png Graphic file (type png)
+<use bestAlpha.png>
+Package pdftex.def Info: bestAlpha.png  used on input line 179.
+(pdftex.def)             Requested size: 435.32422pt x 214.1222pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+
+ []
+
+<bestM.png, id=110, 711.1368pt x 349.7868pt>
+File: bestM.png Graphic file (type png)
+<use bestM.png>
+Package pdftex.def Info: bestM.png  used on input line 188.
+(pdftex.def)             Requested size: 435.32422pt x 214.1222pt.
+
+
+[6 <./bestAlpha.png>]
+
+[7 <./bestM.png>] (rapportLagrange.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
  ***********
-
-
-Package rerunfilecheck Warning: File `rapportLagrange.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `rapportLagrange.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  9814C2D956916ADB9290ECA4E25C967A;103.
+Package rerunfilecheck Info: File `rapportLagrange.out' has not changed.
+(rerunfilecheck)             Checksum: 656736CDC2CC251FCC2B3F3A99424566;1591.
 Package logreq Info: Writing requests to 'rapportLagrange.run.xml'.
 \openout1 = `rapportLagrange.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38704 strings out of 473682
- 738040 string characters out of 5719215
- 1559532 words of memory out of 5000000
- 61188 multiletter control sequences out of 15000+600000
- 577363 words of font info for 86 fonts, out of 8000000 for 9000
+ 38865 strings out of 473682
+ 740419 string characters out of 5719215
+ 1572802 words of memory out of 5000000
+ 61295 multiletter control sequences out of 15000+600000
+ 592049 words of font info for 132 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 98i,6n,117p,706b,1830s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\matil\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm
-1095.pk> <C:\Users\matil\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecbx1440.pk> <C:\Users\matil\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
-/dpi600\ecrm1200.pk> <C:\Users\matil\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecbx1728.pk> <C:\Users\matil\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\matil\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\matil\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\ecss1728.pk> <C:\Users\matil\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1440.pk>
-Output written on rapportLagrange.pdf (3 pages, 73967 bytes).
+ 98i,14n,117p,772b,1939s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\matil\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc
+1095.pk> <C:\Users\matil\AppData\Local\MiKTeX\fonts/pk/ljfour/public/mathabx/dp
+i657\mathb10.pk> <C:\Users\matil\AppData\Local\MiKTeX\fonts/pk/ljfour/public/ma
+thabx/dpi600\mathb8.pk> <C:\Users\matil\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
+nappen/ec/dpi600\tcrm1095.pk> <C:\Users\matil\AppData\Local\MiKTeX\fonts/pk/ljf
+our/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\matil\AppData\Local\MiKTeX\fonts/
+pk/ljfour/public/mathabx/dpi600\matha8.pk> <C:\Users\matil\AppData\Local\MiKTeX
+\fonts/pk/ljfour/public/mathabx/dpi657\mathx10.pk> <C:\Users\matil\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/public/mathabx/dpi657\matha10.pk> <C:\Users\matil\AppD
+ata\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\mati
+l\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\User
+s\matil\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C
+:\Users\matil\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.
+pk> <C:\Users\matil\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecb
+x1728.pk> <C:\Users\matil\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi6
+00\ecrm1728.pk> <C:\Users\matil\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/e
+c/dpi600\ecbx2488.pk> <C:\Users\matil\AppData\Local\MiKTeX\fonts/pk/ljfour/jkna
+ppen/ec/dpi600\ecss1728.pk> <C:\Users\matil\AppData\Local\MiKTeX\fonts/pk/ljfou
+r/jknappen/ec/dpi600\ecss1440.pk><C:/Users/matil/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/matil/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/matil/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/matil/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mat
+il/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Us
+ers/matil/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb><C:/Users/matil/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmsy8.pfb><C:/Users/matil/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/symbols/msbm10.pfb>
+Output written on rapportLagrange.pdf (7 pages, 328875 bytes).
 PDF statistics:
- 192 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 503 PDF objects out of 1000 (max. 8388607)
+ 26 named destinations out of 1000 (max. 500000)
+ 97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
